@@ -1,0 +1,3 @@
+Redirect 301 /index.html http://www.maasl.com/index.shtml
+
+Redirect 301 /sign-up.html http://www.maasl.com/register.shtml

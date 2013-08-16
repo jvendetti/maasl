@@ -1,0 +1,135 @@
+/* css code from http://www.code-sucks.com/free-css-templates/pale-forest/ */
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-size: 14px;
+	padding: 0; 
+	margin: 0;
+	background: #C6D293;
+}
+
+/* MAASL logo colors: blue is #00A5E4 and green is #93A445 */
+/* logo courtesy of nicolette design */
+
+a {text-decoration: none;} /* no underline for hyperlinks */
+a:link {color: #327BAA;} /* medium blue */
+a:visited {color: #6F1488;} /* purple */
+
+#wrapper {
+	width: 922px;
+	margin: 0 auto;
+}
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------*/
+/* Left Column */
+#leftcolumn { 
+	padding: 10px;
+	display: inline; /* IE Fix */
+	float: left;
+	background-color: #fff;
+}
+
+#leftcolumn .logo {
+	margin: 0 0 5px 0;
+ 	width: 217px;
+ 	border: 1px dashed #93A455;
+}
+
+#leftcolumn .logo img { display: block; }
+
+/* --------------------------------------------------------------------------------------------------------------------------------------------*/
+/* Left Column Navigation */
+#leftcolumn ul.mainnav { 
+	margin: 0px;
+	padding: 0;
+	list-style: none;
+}
+
+#leftcolumn ul.mainnav .heading {
+	/*background-color: #9FAF9A;*/
+	background-color: #A58745;
+ 	padding: 5px;
+ 	color: #FFFFFF;
+	font-size: 16px;
+}
+
+#leftcolumn ul.mainnav li { 
+	border-bottom: 1px dashed #93A455;
+ 	border-right: 1px dashed #93A455;
+ 	border-left: 1px dashed #93A455;
+}
+
+#leftcolumn ul.mainnav li a:link, #leftcolumn ul.mainnav li a:visited { 
+	color: #333;
+ 	/*background-color: #F9F9F9;*/
+	background-color: #F6F7ED;
+ 	text-decoration: none;
+ 	padding: 5px;
+ 	display: block;
+}
+
+#leftcolumn ul.mainnav li a:hover{ 
+	display: block;
+ 	/*background-color: #EEF1ED;*/
+	background-color: #ECF0DB;
+ 	text-decoration: none;
+ 	padding: 5px;
+}
+/* End Left Column Navigation */
+/* --------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/* End Left Column */
+/* --------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/* Begin Parent Right Column ----------------------------------------------------------------------- */
+#rightcolumn {
+	border-left: 1px dashed #93A455;
+	border-right: 1px dashed #93A455;
+	margin: 0 0 0 10px;
+	display: inline; /* IE Fix */
+	width: 614px;
+	float: left;
+	background-color: #FFFFFF;
+}
+
+#rightcolumn p.content {
+	border: 1px solid #fff;
+ 	margin: 10px;
+}
+
+#rightcolumn h1 {
+	margin: 10px;
+	padding: 7px 10px;
+	border: 1px dashed #93A455;
+	font-size: 20px;
+	background: #ECF0DB;
+}
+
+#rightcolumn ul {
+	padding-left: 0px;
+	margin: 0px 0px 3px 25px;
+	list-style-type: disc; 
+}
+/* End Parent Right Column ----------------------------------------------------------------------- */
+
+.clear {
+	clear: left;
+}
+
+#footer {
+	background: #FFFFFF;
+	border: 1px dashed #93A455;
+}
+
+#footer .text {
+	padding: 10px;
+ 	margin: 0 auto;
+ 	width: 710px;
+ 	border: 1px solid #FFFFFF;
+	font-size: 12px;
+}
+
+/*#footer .text a:link, #footer .text a:visited { color: #333; text-decoration: none; }
+#footer .text a:hover { color: #333; text-decoration: underline; }
+#footer .text img { border: none ; }*/

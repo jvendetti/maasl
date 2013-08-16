@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Menlo Atherton Adult Soccer League: Sponsors</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+
+<!-- Begin Wrapper -->
+<div id="wrapper">
+   
+	<!-- Begin Left Column -->
+	<div id="leftcolumn">
+
+		<div class="logo">
+			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
+		</div>
+		
+		<!--#include virtual="/includes/navbar.inc" -->
+
+	</div>
+	  
+	<!-- Begin Right Column -->
+	<div id="rightcolumn">
+
+	<h1>MAASL Sponsors</h1>
+	<p class="content">
+	The league welcomes sponsorship from the local community.  In fact, MAASL could not survive without our 
+	sponsors!<br /><br />
+	
+	If you would like to be a MAASL sponsor, please contact Bernadette Robertson 
+	(bkoprowski1&nbsp;<em>at</em>&nbsp;earthlink.net), or 
+	send us a letter at MAASL, Attn. Publicity and Sponsors, PO Box 232, Menlo Park, CA 94026-0232.<br /><br />
+	
+	Thanks to all the sponsors for the current season:<br /><br />
+    
+    <strong>Inside Source</strong> (<a href="http://www.insidesource.com/">http://www.insidesource.com/</a>)<br />
+    <strong>New and Used Office Furniture</strong><br />
+    985 Industrial Road<br />
+    Suite 101<br />
+    San Carlos, CA<br />
+    650.508.9101<br /><br /><br />
+	
+	<strong>UnaMas Mexican Grill</strong> (<a href="http://www.unamas.com/index.asp">http://www.unamas.com/index.asp</a>)<br />
+	683 Santa Cruz Ave.<br />
+	Menlo Park, CA 94025<br />
+	650-853-1200<br /><br />
+	<img src="images/unamaslogo.jpg" width="193" height="76" alt="UnaMas"/><br /><br /><br />
+
+	<strong>The Oasis</strong> (<a href="http://theoasisbeergarden.com/">http://theoasisbeergarden.com/</a>)<br />
+	241 El Camino Real<br />
+	Menlo Park, CA 94025<br />
+	650-326-8896<br /><br />
+	<img src="images/OASISphoto.jpg" width="232" height="153" alt="The Oasis"/><br /><br /><br />
+	</p>
+
+	</div>
+	<div class="clear"></div>
+</div>  
+   
+<!--#include virtual="/includes/footer.inc" -->
+
+</body>
+</html>

@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Menlo Atherton Adult Soccer League: Board of Directors</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+
+<!-- Begin Wrapper -->
+<div id="wrapper">
+   
+	<!-- Begin Left Column -->
+	<div id="leftcolumn">
+
+		<div class="logo">
+			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
+		</div>
+		
+		<!--#include virtual="/includes/navbar.inc" -->
+
+	</div>
+	  
+	<!-- Begin Right Column -->
+	<div id="rightcolumn">
+
+	<h1>Board of Directors</h1>
+	
+	<p class="content">
+	Board members meet several times a year to put teams together and address current issues.<br /><br />
+	
+	All members are volunteers and help make this league possible. If you would like to become a board member, 
+	please contact our Webmaster (name and email address below) with your name, phone number, and an indication 
+	of which position(s) you would like to fill.<br /><br />
+	</p>
+
+	<div class="content" style="padding-left: 10px;">
+	<table width="97%" cellpadding="3" cellspacing="1" border="1">
+		<tr style="background-color:#A58745; color:#FFFFFF;">
+			<td>Position</td>
+			<td>Name</td>
+			<td>Contact Information</td>
+		</tr>
+		<tr>
+			<td>President</td>
+			<td>Jennifer Mihaljevic</td>
+			<td>jenchong6 at yahoo.com</td>
+		</tr>
+		<tr>
+			<td>Treasurer</td>
+			<td>April Watson</td>
+			<td>aprilawatson at yahoo.com</td>
+		</tr>
+		<tr>
+			<td>Fields &amp; Schedules</td>
+			<td>Robin Plankinton</td>
+			<td>robinplank at yahoo.com</td>
+		</tr>
+		<tr>
+			<td>Uniforms &amp; Equipment</td>
+			<td>Lisa Collins</td>
+			<td>lizacollins at yahoo.com</td>
+		</tr>
+		<tr>
+			<td>Publicity</td>
+			<td>Katie Lindell</td>
+			<td>kshack1444 at yahoo.com</td>
+		</tr>
+		<tr>
+			<td>League Team Coordinator</td>
+			<td>Hersha Lodhia-Miller</td>
+			<td>ursula7670 at gmail.com</td>
+		</tr>
+		<tr>
+			<td>Registrar</td>
+			<td>Bridget Conrad</td>
+			<td>bridget.conrad at agiloft.com</td>
+		</tr>
+		<tr>
+			<td>Referees</td>
+			<td>Jennifer Lange</td>
+			<td>jennlange at stanfordalumni.org</td>
+		</tr>
+		<tr>
+			<td>Webmaster</td>
+			<td>Jennifer Vendetti</td>
+			<td>jennifer.vendetti at gmail.com</td>
+		</tr>
+	</table>
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    <br /><br /><br />
+	</div>
+
+	</div>
+	<div class="clear"></div>
+</div>  
+   
+<!--#include virtual="/includes/footer.inc" -->
+
+</body>
+</html>
+

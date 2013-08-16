@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Menlo Atherton Adult Soccer League: Frequently Asked Questions</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+
+<!-- Begin Wrapper -->
+<div id="wrapper">
+   
+	<!-- Begin Left Column -->
+	<div id="leftcolumn">
+
+		<div class="logo">
+			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
+		</div>
+		
+		<!--#include virtual="/includes/navbar.inc" -->
+
+	</div>
+	  
+	<!-- Begin Right Column -->
+	<div id="rightcolumn">
+
+	<h1>MAASL Frequently Asked Questions</h1>
+	
+	<div class="content" style="padding-left:10px; padding-right:5px;">
+	<dl>
+		<dt><img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;What team am I on?</dt>
+		<dd>See the <a href="rosters.shtml">team rosters</a> or contact Bridget Conrad (bridget.conrad at agiloft.com).<br /><br /></dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		Who do I contact if I have questions about the wait list?
+		</dt>
+		<dd>Contact Bridget Conrad (bridget.conrad at agiloft.com).<br /><br /></dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		Who do I contact if I have questions about the schedule?
+		</dt>
+		<dd>See the <a href="schedule.shtml">game schedule</a> or contact Robin Plankinton 
+		(robinplank at yahoo.com).<br /><br /></dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		How do I know if my game is rained out?
+		</dt>
+		<dd style="padding-top:3px;">If a game is cancelled due to rain:
+			<ul style="padding-top:7px; padding-bottom:7px;">
+				<li>Your team coordinator will notify you via email.</li>
+				<li>An announcement is posted on the <a href="https://groups.google.com/forum/?hl=en&amp;fromgroups#!forum/maasl">MAASL mailing list</a>.</li>
+				<li>An announcement is posted on the 
+                <a href="https://www.facebook.com/pages/Menlo-Atherton-Adult-Womens-Soccer-League/89396378936">MAASL Facebook page</a>.</li>
+				<li>The Menlo Park rainout hotline (650.330.2590) lists field closures.</li>
+			</ul>
+		If you want to be 
+		<em>absolutely sure</em> of game status, please contact your team coordinator (see the 
+		<a href="rosters.shtml">team rosters</a> for your coordinator's name).<br /><br />
+		</dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		How do I subscribe to the MAASL mailing list?
+		</dt>
+		<dd>Send an email to maasl+subscribe@googlegroups.com.<br /><br /></dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		How do I unsubscribe from the MAASL mailing list?
+		</dt>
+		<dd>Send an email to maasl+unsubscribe@googlegroups.com.<br /><br /></dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		How do I become a sponsor?
+		</dt>
+		<dd>Contact Katie Lindell (kshack1444 at yahoo.com).<br /><br /></dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		What if I don't have a jersey?
+		</dt>
+		<dd>Contact your team coordinator (see the <a href="rosters.shtml">team rosters</a> for your 
+		coordinator's name).<br /><br /></dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		Who is my team coordinator?
+		</dt>
+		<dd>Contact Hersha Lodhia-Miller (ursula7670 at gmail.com).<br /><br /></dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		Has my check cleared?
+		</dt>
+		<dd>Contact April Watson (aprilawatson at yahoo.com).<br /><br /></dd>
+		
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		Where do I report complaints?
+		</dt>
+		<dd>Report complaints via email and/or in person to any of the MAASL board members.  Contact 
+		information for board members is available on the <a href="board.shtml">board of directors</a> page.<br /><br /></dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		What if I have a question about the website?
+		</dt>
+		<dd>Contact Jennifer Vendetti (jennifer.vendetti at gmail.com).<br /><br /></dd>
+
+		<dt>
+		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
+		What is your mailing address?
+		</dt>
+		<dd>MAASL, PO Box 232, Menlo Park, CA 94026-0232<br /><br /><br /></dd>
+	</dl>
+	</div>
+
+	</div>
+	<div class="clear"></div>
+</div>  
+   
+<!--#include virtual="/includes/footer.inc" -->
+
+</body>
+</html>
+

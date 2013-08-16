@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Menlo Atherton Adult Soccer League: Sponsors</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+
+<!-- Begin Wrapper -->
+<div id="wrapper">
+   
+	<!-- Begin Left Column -->
+	<div id="leftcolumn">
+
+		<div class="logo">
+			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
+		</div>
+		
+		<!--#include virtual="/includes/navbar.inc" -->
+
+	</div>
+	  
+	<!-- Begin Right Column -->
+	<div id="rightcolumn">
+
+	<h1>Shop at CafePress</h1>
+	<p class="content">
+	MAASL players (or anyone for that matter) may purchase merchandise that is customized with the MAASL logo such as 
+	apparel (women's, men's, baby, and doggie), hats, mugs, mousepads, etc.  We have five 
+	online stores at <a href="http://www.cafepress.com/">CafePress.com</a>, each of which corresponds to a different logo.
+	<br /><br />
+	
+	A sample picture of each logo is provided below, along with the URL of the online store where 
+	you can purchase logoed items. Please remember that a portion of the proceeds from the sale of each 
+	item helps to support our league!<br /><br /><br />
+	
+	<strong>option 1: maasl logo in color</strong> &ndash;
+	(<a href="http://www.cafepress.com/maasl">click here to shop this logo</a>)<br /><br />
+	<img src="images/maasl-tee-color.jpg" width="240" height="240" alt="" /><br /><br />
+	
+	<strong>option 2: maasl logo in black and white</strong> &ndash;
+	(<a href="http://www.cafepress.com/maasl3">click here to shop this logo</a>)<br /><br />
+	<img src="images/maasl-tee-bw.jpg" width="240" height="240" alt="" /><br /><br />
+	
+	<strong>option 3: maasl flames logo</strong> &ndash;
+	(<a href="http://www.cafepress.com/maasl2">click here to shop this logo</a>)<br /><br />
+	<img src="images/maasl-tee-flames.jpg" width="240" height="240" alt="" /><br /><br />
+
+	<strong>option 4: maasl logo with soccer text</strong> &ndash;
+	(<a href="http://www.cafepress.com/maasl4">click here to shop this logo</a>)<br /><br />
+	<img src="images/maasl-soccer-tee-color.jpg" width="240" height="240" alt="" /><br /><br />
+
+	<strong>option 5: maasl logo with triangular background</strong> &ndash;
+	(<a href="http://www.cafepress.com/maasl5">click here to shop this logo</a>)<br /><br />
+	<img src="images/maasl-soccer-tee-bw.jpg" width="240" height="240" alt="" /><br /><br /><br />
+	</p>
+	</div>
+	<div class="clear"></div>
+</div>  
+   
+<!--#include virtual="/includes/footer.inc" -->
+
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Menlo Atherton Adult Soccer League: About MAASL</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+
+<!-- Begin Wrapper -->
+<div id="wrapper">
+   
+	<!-- Begin Left Column -->
+	<div id="leftcolumn">
+
+		<div class="logo">
+			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
+		</div>
+		
+		<!--#include virtual="/includes/navbar.inc" -->
+
+	</div>
+	  
+	<!-- Begin Right Column -->
+	<div id="rightcolumn">
+
+	<h1>About MAASL</h1>
+	
+	<div style="float:right; padding-right: 10px; padding-left: 5px;">
+	<img src="images/welcome.jpeg" width="192" height="312" alt="" />
+	</div>
+	
+	<p class="content">
+	The Menlo-Atherton Adult Soccer League (MAASL) was started in 1980 to provide women 23 years and older with a 
+	chance to play amateur, recreational soccer.  We are a non-profit league based in 
+	<a href="http://www.menlopark.org/">Menlo Park, California</a>.<br /><br />
+	
+	We play two season per year: mid March through early June, and September through mid-November.  Games 
+	are held on Saturdays and Tuesday and Thursday evenings (light permitting) at Burgess and Willow Oaks parks  
+	in Menlo Park.  All games are officiated by paid referees.<br /><br />
+	
+	Players of ALL abilities are welcome. The emphasis of our league is on getting fit and having fun.  Membership must 
+	be renewed each spring and fall by submitting an <a href="sign-up.html">application</a>, a check for league fees, 
+	and a signed copy of the Conditions of League Play to the registar.  Please note that we do not hold regularly 
+	scheduled practices, but teams are encouraged to organize practices on their own if there is enough interest 
+	among team members.<br /><br />
+	
+	<strong>Commitment</strong><br /><br />
+	The league recognizes that members are involved in careers, families, and other activities that will sometimes take 
+	precedence over soccer games.  Excessive absenteeism, however, is demoralizing and is not fair to other team members. 
+	It is your responsibility to contact your team coordinator each time you will miss a game. We urge you to 
+	call your team coordinator at least 48 hours prior to the game, so that a replacement player can be located.<br /><br />
+	
+	<strong>Conditioning &amp; Injuries</strong><br /><br />
+	Soccer is a strenuous game. Studies show that while it is impossible to eliminate injuries entirely, they can be 
+	minimized by proper physical conditioning and tight officiating to eliminate dangerous and/or rough play.<br /><br />
+	
+	Physical conditioning is your responsibility. The league encourages you to consult your physician if you have 
+	any doubts about your capacity to handle the stresses of competitive soccer. Don't wait until the season starts 
+	to begin getting in shape for soccer. According to most physicians, you are most apt to be injured in a sport 
+	when you play all-out on the weekend after getting little or no exercise during the week.<br /><br />
+	</p>
+	</div>
+	<div class="clear"></div>
+</div>  
+   
+<!--#include virtual="/includes/footer.inc" -->
+
+</body>
+</html>
+

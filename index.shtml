@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Menlo Atherton Adult Soccer League</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<link rel="shortcut icon" href="favicon.ico" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+
+<!-- Begin Wrapper -->
+<div id="wrapper">
+   
+	<!-- Begin Left Column -->
+	<div id="leftcolumn">
+		<div class="logo">
+			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
+		</div>
+		
+		<!--#include virtual="/includes/navbar.inc" -->
+
+        <div style="margin-top:15px;">
+            <!-- Facebook Badge START -->
+            <a href="http://www.facebook.com/pages/Menlo-Atherton-Adult-Womens-Soccer-League/89396378936" title="Find us on Facebook">
+            <img src="http://facebook.com/badge/89396378936.2847.329334457.png" style="border:0px;" alt="" />
+            </a>
+            <!-- Facebook Badge END -->
+        </div>
+	</div>
+	  
+	<!-- Begin Right Column -->
+	<div id="rightcolumn">
+	<h1>Menlo Atherton Adult Women's Soccer League</h1>
+	
+	<div style="float:right; padding-right: 10px; padding-left: 5px;">
+		<img src="images/soccerlegs.gif" alt="" />
+	</div>
+    
+	<p class="content">
+	The Menlo Atherton Adult Soccer League (MAASL) is a non-profit soccer league for women 
+	23 years and older.  We are based in beautiful 
+	<a href="http://www.menlopark.org/">Menlo Park, California</a> and welcome players of all ability levels.  
+	The emphasis of our league is on getting fit and having fun.<br /><br />
+	
+	We play two season per year: mid March through early June, and September through mid-November. Games are held 
+	on Saturdays and Tuesday and Thursday evenings (light permitting) at <a href="fields.html">Burgess and Willow Oaks parks</a>. All games are 
+	officiated by paid referees.<br /><br />
+    
+    <strong>IMPORTANT!</strong> To stay informed about schedule changes, rain-outs, special events, application due dates, etc., 
+    all participants should subscribe to MAASL's Google Group (use the form below).
+	</p>
+    
+	<form action="http://groups.google.com/group/maasl/boxsubscribe">
+    <table border="0" style="background-color:#fff; padding:5px;" cellspacing="0">
+    	<tr><td><img src="images/Logo_Google_groups.png" height="40" width="191" alt="Google Groups" /></td></tr>
+    	<tr><td style="padding-left:5px"><b>Subscribe to Menlo-Atherton Adult Soccer League</b></td></tr>
+    	<tr>
+        	<td style="padding-left:5px;">
+            Email: <input type="text" name="email" /> <input type="submit" name="sub" value="Subscribe" />
+    		</td>
+        </tr>
+    	<tr><td style="padding-left:5px;"><a href="http://groups.google.com/group/maasl">Visit this group</a></td></tr>
+    </table>
+    </form><br />
+    
+	<h1>Announcements</h1>
+    
+    <p class="content">
+    -- We are now accepting registrations for the <strong>Fall 2013 season</strong>!  Online registration will be available from <strong>July 1st through 
+    August 2nd</strong>.  Please register early!  Check out our <a href="register.shtml">registration page</a> for more information, and a link to 
+    the online registration form.
+    </p>
+    
+	<p class="content">
+    -- Players can now <strong>purchase merchandise that is customized with the MAASL logo</strong> such as apparel (men's, women's, and baby), 
+    hats, mugs, mousepads, etc.  Click the <a href="shop.html">Buy MAASL Gear</a> link in the left-hand navigation bar to start shopping!  A portion 
+    of each sale helps support our league.
+    </p>
+    
+    <br /><br /><br /><br /><br />
+    <br /><br /><br /><br /><br />
+    <br />
+
+	</div>
+
+	<div class="clear"></div>
+    
+</div>  
+   
+<!--#include virtual="/includes/footer.inc" -->
+
+</body>
+</html>

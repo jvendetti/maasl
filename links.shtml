@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Menlo Atherton Adult Soccer League: Links &amp; Upcoming Events</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+
+<!-- Begin Wrapper -->
+<div id="wrapper">
+   
+	<!-- Begin Left Column -->
+	<div id="leftcolumn">
+
+		<div class="logo">
+			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
+		</div>
+		
+		<!--#include virtual="/includes/navbar.inc" -->
+
+	</div>
+	  
+	<!-- Begin Right Column -->
+	<div id="rightcolumn">
+	<p class="content">
+	<strong>To follow are a collection of links to soccer-related events, websites, and other leagues that you 
+	may find interesting and/or useful.</strong><br /><br />
+	</p>
+
+	<h1>Upcoming Events</h1>
+	<p class="content">
+    <!--<a href="https://soccer.bizland.com/clinic.html">MAASL Soccer Clinic</a>, August 12th, 2010<br />-->
+	<em>Contact the Webmaster to have your event listed here (jennifer dot vendetti at gmail dot com).</em><br /><br />
+	</p>
+		
+	<h1>Local Leagues</h1>
+	<p class="content">
+	<a href="http://eteamz.active.com/BAWSL/index.cfm?">Bay Area Women's Soccer League (BAWSL)</a> - more competitive than MAASL<br />
+	<a href="http://www.siliconvalleysoccer.com/">Silicon Valley Soccer Association</a> - more competitive than MAASL<br />
+	<a href="http://www.paasl.org/">Palo Alto Adult Soccer League (PAASL)</a><br />
+	<a href="http://www.ggwsl.org/">Golden Gate Women's Soccer League</a><br />
+	<a href="http://67.120.124.1/pvasl?n=PVASL.HomePage">Portola Valley Adult Soccer League</a> - adult co-ed<br /><br />
+	</p>
+	
+	<h1>Indoor</h1>
+	<p class="content">
+	<a href="http://www.worldclassindoorsoccer.com/">World Class Indoor Soccer (WCIS)</a> - Redwood City<br />
+	<a href="http://www.offthewallsoccer.com/cms/">Off the Wall Soccer</a> - Santa Clara<br /><br />
+	</p>
+		
+	<h1>Professional</h1>
+	<p class="content">
+	<a href="http://www.womensprosoccer.com/">Women's Professional Soccer (WPS)</a> - highest level pro women's league in North America<br />
+	<a href="http://www.wpsl.info/">Women's Premier Soccer League (WPSL)</a> - national, highly competitive amateur league<br />
+	<a href="http://web.mlsnet.com/index.jsp">Major League Soccer (MLS)</a> - men's professional soccer<br />
+	<a href="http://www.uefa.com">UEFA</a> - Union of European Football Associations<br /><br />
+	</p>
+
+	<h1>Other</h1>
+	<p class="content">
+	<a href="http://www.fifa.com/worldfootball/lawsofthegame.html">FIFA Laws of the Game</a><br />
+    <a href="http://www.ourgamemagazine.com/">Our Game Magazine</a> - online women's soccer magazine<br />
+	<a href="http://www.soccerresort.com/">Soccer Resort</a> - offers weekend adult soccer travel<br />
+	<a href="http://www.mayorasoccer.com/">Mayora Soccer Academy</a> - has a good women's summer camp<br />
+	<a href="http://www.cysanorth.org/">California Youth Soccer Association - North (CYSA)</a><br />
+	</p><br /><br />
+	
+	</div>
+	<div class="clear"></div>
+</div>
+   
+<!--#include virtual="/includes/footer.inc" -->
+
+</body>
+</html>

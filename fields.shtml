@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Menlo Atherton Adult Soccer League: Fields</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+
+<!-- Begin Wrapper -->
+<div id="wrapper">
+   
+	<!-- Begin Left Column -->
+	<div id="leftcolumn">
+
+		<div class="logo">
+			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
+		</div>
+		
+		<!--#include virtual="/includes/navbar.inc" -->
+
+	</div>
+	  
+	<!-- Begin Right Column -->
+	<div id="rightcolumn">
+
+	<h1>Fields Where We Play</h1>
+	
+	<p class="content">
+	All of MAASL's games are played either at Burgess or Willow Oaks parks in Menlo Park, California.<br /><br /><br />
+	
+	<strong>BURGESS PARK</strong><br />
+	701 Laurel Street<br />
+	Menlo Park, California<br />
+	<a href="http://www.menlopark.org/departments/com/parks/burgess.htm">Burgess Park Website</a><br />
+	<a href="http://www.google.com/maps?f=q&amp;hl=en&amp;q=501+Laurel+Street,+Menlo+Park,+CA&amp;ie=UTF8&amp;om=1">Burgess Park Map</a><br /><br />
+
+	<strong>WILLOW OAKS PARK</strong><br />
+	Willow Road &amp; Coleman Avenue<br />
+	Menlo Park, California<br />
+	<a href="http://www.menlopark.org/departments/com/parks/willow.htm">Willow Oaks Park Website</a><br />
+	<a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=490+Gilbert+Ave.,+Menlo+Park,+CA&amp;sll=37.0625,-95.677068&amp;sspn=48.240201,82.265625&amp;ie=UTF8&amp;ll=37.459862,-122.15915&amp;spn=0.005944,0.010042&amp;z=17&amp;iwloc=addr&amp;om=1">Willow Oaks Park Map</a>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<br /><br /><br /><br /><br /><br /><br /><br /><br />
+	</p>
+	
+	</div>
+	<div class="clear"></div>
+</div>  
+   
+<!--#include virtual="/includes/footer.inc" -->
+
+</body>
+</html>

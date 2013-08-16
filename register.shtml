@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Menlo Atherton Adult Soccer League: Register for MAASL</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+
+<body>
+
+<!-- Begin Wrapper -->
+<div id="wrapper">
+   
+	<!-- Begin Left Column -->
+	<div id="leftcolumn">
+
+		<div class="logo">
+			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
+		</div>
+		
+		<!--#include virtual="/includes/navbar.inc" -->
+
+	</div>
+	  
+	<!-- Begin Right Column -->
+	<div id="rightcolumn">
+	
+    <h1>Register for MAASL</h1>
+
+        <p class="content">
+        <span style="color:red; font-weight:bold;">Please read the following important information before registering.</span><br /><br />
+        
+        <strong>Session Information</strong><br /><br />
+        
+        Fall 2013 starts Tuesday, September 3rd.  Online registration is open until <strong>August 2nd</strong>.<br /><br />
+        Please register early!  Teams are formed on a first-come, first served basis.  MAASL attempts to honor requests from players 
+        wishing to be paired on the same team, but we are unable to guarantee that all such requests are granted.<br /><br />
+        
+        <strong>Fees</strong><br /><br />
+        
+        Registration fees are <strong>$75.00</strong> for Menlo Park residents, <strong>$85.00</strong> for non-residents, and <strong>$25.00</strong> 
+        for MAASL jerseys.  <em>All players must wear official MAASL jerseys during games</em>.  Before registering, please make sure to familiarize 
+        yourself with our refund policy toward the bottom of this page.<br /><br />
+        
+        <!-- <strong>Group Registrations</strong><br /><br />
+        
+        If you want to play with one or two of your friends, MAASL will accommodate requests of up to 3 players wishing 
+        to be placed on the same team.  Groups larger than 3 will be split arbitrarily.  Please clearly indicate somewhere 
+        on your application the names of the women you want to play with.<br /><br /> -->
+        
+        <strong>Uniforms</strong><br /><br />
+        
+        All players, except goalies are required to wear official MAASL jerseys during games (jerseys can be purchased as part of the online 
+        registration process).  Your team coordinator will supply you with a jersey in the size you indicated during registration at the beginning of the 
+        season.  If you have questions about MAASL jerseys, please contact our uniforms and equipment manager Lisa Collins (lizacollins at yahoo.com).  
+        Shin guards are required and must be covered by soccer socks.  Shorts and socks may be of any color.  Players must not use equipment or wear 
+        anything that is dangerous to herself or another player (including any kind of jewelry).  Leg braces must be covered.
+        <br /><br />
+        
+        <strong>Registration Instructions</strong><br /><br />
+        
+        <!-- <span style="color:red; font-weight:bold;">Registration for Spring 2013 is closed.  Online form for Fall 2013 coming soon.</span><br /><br /> -->
+        
+		Please use our <a href="https://maasl.wufoo.com/forms/q7x3z9/"><strong>online form</strong></a> to register and pay for the 
+        Fall 2013 season.  All payments are collected via <a href="https://www.paypal.com/">PayPal</a>.  You don't need to have a PayPal 
+        account in order to pay via PayPal, but you may want to set one up to make the registration process easier.  You will receive an 
+        automated e-mail confirmation after you register; if you don't receive confirmation within a day or two, you must contact us to verify 
+        your registration.<br /><br />
+        
+        <strong>Refund Policy</strong><br /><br />
+        
+        Full refunds are granted <em>only if you notify us within 3 weeks of the start of the 
+        season</em>.  This period of time gives the board a chance to replace you with someone from the waiting list.  Due to the 
+        fact that MAASL is a non-profit league with fixed expenses each season, we are not in a position to offer refunds if 
+        you notify us any later than 3 weeks from the season start date.  This includes partial refunds and/or credits for 
+        the following season.  Thank you for your understanding.<br /><br />
+        </p>
+	</div>
+
+	<div class="clear"></div>
+
+</div>
+   
+<!--#include virtual="/includes/footer.inc" -->
+
+</body>
+</html>
