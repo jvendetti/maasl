@@ -31,14 +31,14 @@ td {white-space: nowrap;}
 	<!-- Begin Right Column -->
 	<div id="rightcolumn">
 
-    	<h1>Spring 2013 Game Schedule</h1>
+    	<h1>Fall 2013 Game Schedule</h1>
 
         <p class="content">
         
         If you have questions regarding fields or schedules, please contact Robin Plankinton 
         (robinplank at yahoo dot com).<br /><br />
     
-        Use the links below to access your team's calendar from mobile devices or other applications.  You can copy and 
+        <!-- Use the links below to access your team's calendar from mobile devices or other applications.  You can copy and 
         paste the links into any calendar product that supports the 
         <a href="http://en.wikipedia.org/wiki/List_of_applications_with_iCalendar_support" target="_blank">iCal format</a>.<br /><br />
     
@@ -48,20 +48,259 @@ td {white-space: nowrap;}
         <a href="https://www.google.com/calendar/ical/8estp0nsm01pnn2rmaa3ugeh58%40group.calendar.google.com/public/basic.ics"><strong>Subscribe</strong></a> to <strong>Team 4</strong> calendar<br /><br />
         <!-- <a href="https://www.google.com/calendar/ical/gmblejnujvrlro7btfkl1s3nl8%40group.calendar.google.com/public/basic.ics"><strong>Subscribe</strong></a> to <strong>Team 5</strong> calendar<br /><br /> -->
         
-        <em>&ndash;&nbsp;Teams listed first are &quot;home&quot; and wear red.<br />
-        &ndash;&nbsp;All games will be played at <a href="http://goo.gl/maps/JTGY" target="_blank">Burgess Park</a>.</em><br /><br />
+        <em>Teams listed first are &quot;home&quot; and wear red.</em><br /><br />
         
-        <img src="images/printer.gif" width="13" height="10" alt="" />
+        <!-- <img src="images/printer.gif" width="13" height="10" alt="" />
 		<a href="schedules/MAASLSpring2013Schedule.pdf">View Printable Game Schedule</a><br />
         <img src="images/printer.gif" width="13" height="10" alt="" />
-		<a href="schedules/MAASLSpring2013RoundRobinSchedule.pdf">View Printable Round Robin Schedule</a><br /><br />
+		<a href="schedules/MAASLSpring2013RoundRobinSchedule.pdf">View Printable Round Robin Schedule</a><br /><br /> -->
         
         </p>
     
 		<!-- Public Google calendar -->
-        <div class="content" style="padding-left:10px; padding-bottom:13px;">
+        <!-- <div class="content" style="padding-left:10px; padding-bottom:13px;">
 		<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=700&amp;wkst=1&amp;hl=en&amp;bgcolor=%23FFFFFF&amp;src=maasl.webmaster%40gmail.com&amp;color=%23182C57&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="585" height="700" frameborder="0" scrolling="no"></iframe>
-		</div>
+		</div> -->
+        
+        <h1>September</h1>
+		<div class="content" style="padding-left: 10px;">
+        <table width="98%" cellpadding="3" cellspacing="2" border="1">
+            <tr style="background-color:#A58745; color:#FFFFFF;">
+                <td>Date</td>
+                <td>Time</td>
+                <td>Location</td>
+                <td>Teams</td>
+            </tr>
+            <tr>
+                <td>September 3</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>1 vs. 4</td>
+            </tr>
+            <tr>
+                <td>September 5</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>2 vs. 3</td>
+            </tr>
+            <tr>
+                <td>September 7</td>
+                <td>2:00PM</td>
+                <td>Burgess</td>
+                <td>3 vs. 1</td>
+            </tr>
+            <tr>
+                <td>September 7</td>
+                <td>3:40PM</td>
+                <td>Burgess</td>
+                <td>4 vs. 2</td>
+            </tr>
+            <tr>
+                <td>September 10</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>2 vs. 1</td>
+            </tr>
+            <tr>
+                <td>September 12</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>3 vs. 4</td>
+            </tr>
+            <tr>
+                <td>September 14</td>
+                <td>2:00PM</td>
+                <td>Burgess</td>
+                <td>1 vs. 4</td>
+            </tr>
+            <tr>
+                <td>September 14</td>
+                <td>3:30PM</td>
+                <td>Burgess</td>
+                <td>2 vs. 3</td>
+            </tr>
+            <tr>
+                <td>September 17</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>3 vs. 1</td>
+            </tr>
+            <tr>
+                <td>September 19</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>4 vs. 2</td>
+            </tr>
+            <tr>
+                <td>September 21</td>
+                <td>2:00PM</td>
+                <td>Burgess</td>
+                <td>3 vs. 4</td>
+            </tr>
+            <tr>
+                <td>September 21</td>
+                <td>3:40PM</td>
+                <td>Burgess</td>
+                <td>2 vs. 1</td>
+            </tr>
+            <tr>
+                <td>September 24</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>2 vs. 3</td>
+            </tr>
+            <tr>
+                <td>September 26</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>1 vs. 4</td>
+            </tr>
+            <tr>
+                <td>September 28</td>
+                <td>2:00PM</td>
+                <td>Burgess</td>
+                <td>3 vs. 1</td>
+            </tr>
+            <tr>
+                <td>September 28</td>
+                <td>3:40PM</td>
+                <td>Burgess</td>
+                <td>4 vs. 2</td>
+            </tr>
+        </table>
+        </div>
+        
+        <h1>October</h1>
+		<div class="content" style="padding-left: 10px;">
+        <table width="98%" cellpadding="3" cellspacing="2" border="1">
+            <tr style="background-color:#A58745; color:#FFFFFF;">
+                <td>Date</td>
+                <td>Time</td>
+                <td>Location</td>
+                <td>Teams</td>
+            </tr>
+            <tr>
+                <td>October 1</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>2 vs. 1</td>
+            </tr>
+            <tr>
+                <td>October 3</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>3 vs. 4</td>
+            </tr>
+            <tr>
+                <td>October 5</td>
+                <td>2:00PM</td>
+                <td>Burgess</td>
+                <td>2 vs. 3</td>
+            </tr>
+            <tr>
+                <td>October 5</td>
+                <td>3:40PM</td>
+                <td>Burgess</td>
+                <td>1 vs. 4</td>
+            </tr>
+            <tr>
+                <td>October 8</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>3 vs. 1</td>
+            </tr>
+            <tr>
+                <td>October 10</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>4 vs. 2</td>
+            </tr>
+            <tr>
+                <td>October 12</td>
+                <td>2:00PM</td>
+                <td>Burgess</td>
+                <td>3 vs. 4</td>
+            </tr>
+            <tr>
+                <td>October 12</td>
+                <td>3:40PM</td>
+                <td>Burgess</td>
+                <td>2 vs. 1</td>
+            </tr>
+            <tr>
+                <td>October 15</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>2 vs. 3</td>
+            </tr>
+            <tr>
+                <td>October 17</td>
+                <td>6:00PM</td>
+                <td>Willow Oaks</td>
+                <td>1 vs. 4</td>
+            </tr>
+            <tr>
+                <td>October 19</td>
+                <td>2:00PM</td>
+                <td>Burgess</td>
+                <td>3 vs. 1</td>
+            </tr>
+            <tr>
+                <td>October 19</td>
+                <td>3:40PM</td>
+                <td>Burgess</td>
+                <td>4 vs. 2</td>
+            </tr>
+            <tr>
+                <td>October 26</td>
+                <td>2:00PM</td>
+                <td>Burgess</td>
+                <td>2 vs. 1</td>
+            </tr>
+            <tr>
+                <td>October 26</td>
+                <td>3:40PM</td>
+                <td>Burgess</td>
+                <td>3 vs. 4</td>
+            </tr>
+        </table>
+        </div>
+        
+        <h1>November</h1>
+  		<div class="content" style="padding-left: 10px;">
+        <table width="98%" cellpadding="3" cellspacing="2" border="1">
+            <tr style="background-color:#A58745; color:#FFFFFF;">
+            <td>Date</td>
+            <td>Time</td>
+            <td>Location</td>
+            <td>Teams</td>
+        </tr>
+        <tr>
+            <td>November 2</td>
+            <td>2:00PM</td>
+            <td>Burgess</td>
+            <td>1 vs. 4</td>
+        </tr>
+        <tr>
+            <td>November 2</td>
+            <td>3:40PM</td>
+            <td>Burgess</td>
+            <td>2 vs. 3</td>
+        </tr>
+        <tr>
+            <td>November 9</td>
+            <td>2:00PM</td>
+            <td>Burgess</td>
+            <td>4 vs. 2</td>
+        </tr>
+        <tr>
+            <td>November 9</td>
+            <td>3:40PM</td>
+            <td>Burgess</td>
+            <td>3 vs. 1</td>
+        </tr>
+        </table><br /><br />
+        </div>
 
     </div> <!-- End Right Column -->
 
