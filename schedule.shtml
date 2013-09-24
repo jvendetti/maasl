@@ -135,13 +135,13 @@ td {white-space: nowrap;}
                 <td>September 21</td>
                 <td>2:00PM</td>
                 <td>Burgess</td>
-                <td>3 vs. 4</td>
+                <td>3 vs. 4&nbsp;&nbsp;<span style="color:red; font-weight:bold;">rained out</span></td>
             </tr>
             <tr>
                 <td>September 21</td>
                 <td>3:40PM</td>
                 <td>Burgess</td>
-                <td>2 vs. 1</td>
+                <td>2 vs. 1&nbsp;&nbsp;<span style="color:red; font-weight:bold;">rained out</span></td>
             </tr>
             <tr>
                 <td>September 24</td>
