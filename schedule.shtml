@@ -273,16 +273,8 @@ td {white-space: nowrap;}
         </tr>
         <tr>
             <td>November 9</td>
-            <td>2:00PM</td>
-            <td>Burgess</td>
-            <td>4 vs. 2</td>
-        </tr>
-        <tr>
-            <td>November 9</td>
-            <td>3:40PM</td>
-            <td>Burgess</td>
-            <td>3 vs. 1</td>
-        </tr>
+            <td colspan="3">Pick-up soccer, 2:00-4:00PM, Burgess</td>
+		</tr>
         </table><br /><br />
         </div>
 
