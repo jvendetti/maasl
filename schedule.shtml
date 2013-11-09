@@ -217,15 +217,7 @@ td {white-space: nowrap;}
             </tr>
             <tr>
                 <td>October 12</td>
-                <td>2:00PM</td>
-                <td>Burgess</td>
-                <td>3 vs. 4</td>
-            </tr>
-            <tr>
-                <td>October 12</td>
-                <td>3:40PM</td>
-                <td>Burgess</td>
-                <td>2 vs. 1</td>
+                <td colspan="3">Pick-up soccer, 2:00-4:00PM, Burgess</td>
             </tr>
             <tr>
                 <td>October 15</td>
@@ -253,15 +245,7 @@ td {white-space: nowrap;}
             </tr>
             <tr>
                 <td>October 26</td>
-                <td>2:00PM</td>
-                <td>Burgess</td>
-                <td>2 vs. 1</td>
-            </tr>
-            <tr>
-                <td>October 26</td>
-                <td>3:40PM</td>
-                <td>Burgess</td>
-                <td>3 vs. 4</td>
+                <td colspan="3">Lights vs. darks, 2:00-3:30PM, Burgess</td>
             </tr>
         </table>
         </div>
