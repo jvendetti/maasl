@@ -133,3 +133,8 @@ a:visited {color: #6F1488;} /* purple */
 /*#footer .text a:link, #footer .text a:visited { color: #333; text-decoration: none; }
 #footer .text a:hover { color: #333; text-decoration: underline; }
 #footer .text img { border: none ; }*/
+
+.schedule-mod {
+	font-weight: bold;
+	background-color: #E1BFB7;
+}
