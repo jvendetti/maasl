@@ -14,30 +14,149 @@
 
 <body>
 <div id="wrapper">
-   
-	<div id="leftcolumn">
-		<div class="logo">
-			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
-		</div>
-		<!--#include virtual="/includes/navbar.inc" -->
-	</div> <!-- /end leftcolumn -->
-	  
-	<div id="rightcolumn">
-        <h1>Spring 2014 Team Rosters</h1>
+  <div id="leftcolumn">
+    <div class="logo"> <img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/> </div>
+    <!--#include virtual="/includes/navbar.inc" --> 
+  </div><!-- /end leftcolumn -->
+  
+  <div id="rightcolumn">
+    <h1>Spring 2014 Team Rosters</h1>
+    <p class="content"> If you have questions regarding the rosters, 
+    please contact Bridget Conrad (bridgetconrad at gmail.com).<br /><br />
+    
+    Are you new to soccer and wondering how to play?  Download and check 
+    out our helpful <a href="docs/soccer-basics.doc">Soccer Basics handout</a> 
+    (Microsoft Word format).<br /><br />
+    
+    * board member, ** team coordinator
+		</p>
+    
+    <table width="97%" cellpadding="3" cellspacing="2" border="0">
+      <tr>
+        <td nowrap="nowrap" width="50%">
+        	<!-- TEAM 1 -->
+          <table width="100%" border="1" cellpadding="3">
+            <tr style="background-color:#A58745;">
+              <td><span class="team">TEAM 1</span></td>
+            </tr>
+            <tr><td>Abby Asprec</td></tr>
+            <tr><td>Amanda Midboe *</td></tr>
+            <tr><td>Amity Binkert</td></tr>
+            <tr><td>Amy Yaskowski</td></tr>
+            <tr><td>Ann Allen</td></tr>
+            <tr><td>Bea Bannon</td></tr>
+            <tr><td>Carol Sexton</td></tr>
+            <tr><td>Christina Schmidt</td></tr>
+            <tr><td>Eleanore Dogan</td></tr>
+            <tr><td>Hersha Lodhia-Miller</td></tr>
+            <tr><td>Holly Fudenna</td></tr>
+            <tr><td>Joanne Taylor</td></tr>
+            <tr><td>Jodie Craig</td></tr>
+            <tr><td>Kristi Waldron</td></tr>
+            <tr><td>Nancy Schmidt</td></tr>
+            <tr><td>Rebecca Canning</td></tr>
+            <tr><td>Robin Plankinton *</td></tr>
+            <tr><td>Simona Bandong</td></tr>
+            <tr><td>&nbsp;</td></tr>
+            <tr><td><strong>Total players: 18</strong></td></tr>
+          </table>
+        </td>
         
-        <p class="content">
-        If you have questions regarding the rosters, please contact Bridget Conrad (bridgetconrad at gmail.com).<br /><br />
+        <td nowrap="nowrap" width="50%">
+        	<!-- TEAM 2 -->
+        	<table width="100%" border="1" cellpadding="3">
+            <tr style="background-color:#A58745;">
+              <td><span class="team">TEAM 2</span></td>
+            </tr>
+            <tr><td>Ana Villanueva</td></tr>
+            <tr><td>Bridget Conrad *</td></tr>
+            <tr><td>Carisa Kozicki</td></tr>
+            <tr><td>Celia Skipton</td></tr>
+            <tr><td>Elisa Nocedal</td></tr>
+            <tr><td>Kate Lewis</td></tr>
+            <tr><td>Katie Cromie</td></tr>
+            <tr><td>Kelsey Chambers</td></tr>
+            <tr><td>Lila Inglima</td></tr>
+            <tr><td>Lisa Collins *</td></tr>
+            <tr><td>Maritza Rae Santiago</td></tr>
+            <tr><td>Nancy Nuckolls</td></tr>
+            <tr><td>Reyna Bernal</td></tr>
+            <tr><td>Sara Bennett</td></tr>
+            <tr><td>Starla Turner</td></tr>
+            <tr><td>Susie Schinski</td></tr>
+            <tr><td>Viola Kung</td></tr>
+            <tr><td>&nbsp;</td></tr>
+            <tr><td>&nbsp;</td></tr>
+            <tr><td><strong>Total players: 17</strong></td></tr>
+          </table>
+				</td>
+      </tr>
+
+      <tr>
+        <td nowrap="nowrap" width="50%">
+        	<!-- TEAM 3 -->
+        	<table width="100%" border="1" cellpadding="3">
+            <tr style="background-color:#A58745;">
+              <td><span class="team">TEAM 3</span></td>
+            </tr>
+            <tr><td>Alyse Katz</td></tr>
+            <tr><td>April Watson *</td></tr>
+            <tr><td>Audrey Tucker</td></tr>
+            <tr><td>Christy Peetz</td></tr>
+            <tr><td>Connilee Hayes</td></tr>
+            <tr><td>Dana Hughes</td></tr>
+            <tr><td>Erin Shannon</td></tr>
+            <tr><td>Jenean Campos</td></tr>
+            <tr><td>Katie Lindell *</td></tr>
+            <tr><td>Kris Haren</td></tr>
+            <tr><td>Liz Wiggans</td></tr>
+            <tr><td>Maija Kelley</td></tr>
+            <tr><td>Sara Harrington</td></tr>
+            <tr><td>Solveig Gibeau</td></tr>
+            <tr><td>Stephanie Evans</td></tr>
+            <tr><td>Stephanie Collier</td></tr>
+            <tr><td>Suzanne Lowe</td></tr>
+            <tr><td>Virginia Merrifield</td></tr>
+            <tr><td>&nbsp;</td></tr>
+            <tr><td><strong>Total players: 18</strong></td></tr>
+          </table></td>
         
-        Are you new to soccer and wondering how to play?  Download and check out our helpful 
-        <a href="docs/soccer-basics.doc">Soccer Basics handout</a> (Microsoft Word format).<br /><br />
-        
-        * board member, ** team coordinator
-        </p>
-	</div><!-- /end rightcolumn -->
-	
-    <div class="clear"></div>
-</div><!-- /end wrapper -->
-   
+        <td nowrap="nowrap" width="50%">
+        	<!-- TEAM 4 -->
+        	<table width="100%" border="1" cellpadding="3">
+            <tr style="background-color:#A58745;">
+              <td><span class="team">TEAM 4</span></td>
+            </tr>
+            <tr><td>Bonnie Brock</td></tr>
+            <tr><td>Debbie Bacigalupi</td></tr>
+            <tr><td>Deborah Tan</td></tr>
+            <tr><td>Heather Downs</td></tr>
+            <tr><td>Icie Legrand</td></tr>
+            <tr><td>Jessica Meunier</td></tr>
+            <tr><td>Kathy Giori</td></tr>
+            <tr><td>Michelle Carrega</td></tr>
+            <tr><td>Norma Pantoja</td></tr>
+            <tr><td>Qinghui Ji</td></tr>
+            <tr><td>Rosalyn Conanan</td></tr>
+            <tr><td>Rozeena Jhinnu</td></tr>
+            <tr><td>Sheri Simmons *</td></tr>
+            <tr><td>Simona Vallone</td></tr>
+            <tr><td>Tomoko Nakanishi</td></tr>
+            <tr><td>Valeska Schroeder</td></tr>
+            <tr><td>Victoria Hwang</td></tr>
+            <tr><td>&nbsp;</td></tr>
+            <tr><td>&nbsp;</td></tr>
+            <tr><td><strong>Total players: 17</strong></td></tr>
+          </table>
+        </td>
+      </tr>
+    </table><br />
+  </div><!-- /end rightcolumn -->
+  
+  <div class="clear"></div>
+  
+</div><!-- /end wrapper --> 
+
 <!--#include virtual="/includes/footer.inc" -->
 
 </body>
