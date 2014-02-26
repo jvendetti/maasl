@@ -26,8 +26,11 @@ td {white-space: nowrap;}
         <p class="content">
         	If you have questions regarding the schedule, please contact Amanda Midboe (alabamander at gmail.com).<br /><br />
             <em>Teams listed first are &quot;home&quot; and wear red.</em><br /><br />
-        </p>
-    
+			<img src="images/printer.gif" width="13" height="10" alt="" />
+			<a href="schedules/MAASLSpring2014Schedule.pdf">View printable game schedule</a><br /><br />
+			<!-- <img src="images/printer.gif" width="13" height="10" alt="" />
+			<a href="schedules/MAASLSpring2013RoundRobinSchedule.pdf">View Printable Round Robin Schedule</a><br /><br /> -->
+		</p>
         <h1>March</h1>
 		<div class="content" style="padding-left: 10px;">
 			<table width="98%" cellpadding="3" cellspacing="2" border="1">
