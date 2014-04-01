@@ -112,19 +112,19 @@ td {white-space: nowrap;}
                     <td>March 27</td>
                     <td>6:15pm</td>
                     <td>Burgess</td>
-                    <td>3 vs. 2<!-- nbsp;&nbsp;<span style="color:red; font-weight:bold;">rained out</span> --></td>
+                    <td>3 vs. 2&nbsp;&nbsp;<span style="color:red; font-weight:bold;">rained out</span></td>
                 </tr>
                 <tr>
                     <td>March 29</td>
                     <td>8:30am</td>
                     <td>Burgess</td>
-                    <td>2 vs. 4</td>
+                    <td>2 vs. 4&nbsp;&nbsp;<span style="color:red; font-weight:bold;">rained out</span></td>
                 </tr>
                 <tr>
                     <td>March 29</td>
                     <td>10:15am</td>
                     <td>Burgess</td>
-                    <td>3 vs. 1</td>
+                    <td>3 vs. 1&nbsp;&nbsp;<span style="color:red; font-weight:bold;">rained out</span></td>
                 </tr>
         	</table>
         </div><!-- /end content -->
