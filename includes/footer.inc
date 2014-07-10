@@ -1,6 +1,6 @@
 <div id="footer">
 	<p class="text">
-	Last update: May 24, 2014&nbsp;&nbsp;
+	Last update: June 20, 2014&nbsp;&nbsp;
 	<strong>::</strong>&nbsp;&nbsp;
 	Contact webmaster: jennifer.vendetti at gmail.com&nbsp;&nbsp;
 	<strong>::</strong>&nbsp;&nbsp;
