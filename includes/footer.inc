@@ -2,7 +2,7 @@
 	<p class="text">
 	Last update: July 22, 2014&nbsp;&nbsp;
 	<strong>::</strong>&nbsp;&nbsp;
-	Contact webmaster: jennifer.vendetti at gmail.com&nbsp;&nbsp;
+	Contact webmaster: lara8claudia at gmail.com&nbsp;&nbsp;
 	<strong>::</strong>&nbsp;&nbsp;
     <a href="http://wufoo.com">Online Forms by Wufoo</a>
 	<strong>::</strong>&nbsp;&nbsp;
