@@ -22,16 +22,16 @@ td {white-space: nowrap;}
 	</div><!-- /end leftcolumn -->
 	  
 	<div id="rightcolumn">
-		<h1>Spring 2014 Game Schedule</h1>
+		<h1>Fall 2014 Game Schedule</h1>
         <p class="content">
         	If you have questions regarding the schedule, please contact Amanda Midboe (alabamander at gmail.com).<br /><br />
             <em>Teams listed first are &quot;home&quot; and wear red.</em><br /><br />
 			<img src="images/printer.gif" width="13" height="10" alt="" />
-			<a href="schedules/MAASLSpring2014Schedule.pdf">View printable game schedule</a><br /><br />
+			<a href="schedules/MAASLFieldSchedule-Fall2014rev3.pdf" target="_blank">View printable game schedule</a><br /><br />
 			<!-- <img src="images/printer.gif" width="13" height="10" alt="" />
 			<a href="schedules/MAASLSpring2013RoundRobinSchedule.pdf">View Printable Round Robin Schedule</a><br /><br /> -->
 		</p>
-        <h1>March</h1>
+        <h1>September</h1>
 		<div class="content" style="padding-left: 10px;">
 			<table width="98%" cellpadding="3" cellspacing="2" border="1">
 				<tr style="background-color:#A58745; color:#FFFFFF;">
@@ -41,95 +41,111 @@ td {white-space: nowrap;}
                     <td>Teams</td>
                 </tr>
                 <tr>
-                    <td>March 8</td>
+                    <td>September 4</td>
                     <td>
-                    	8:00-8:30am<br />
-                        8:30-10:00am<br />
-                        10:00am-12:00pm
+                    	6-7:30pm
                      </td>
-                    <td>Burgess</td>
+                    <td>Willow Oaks</td>
                     <td>
                     	Jersey distribution<br />
-                        Pick-up soccer<br />
-                        Brunch at Jason's Caf&eacute;
+                        Clinic<br />
+                        Meet-up at <a href="http://theoasisbeergarden.com/" target="_blank">Oasis</a> after
                     </td>
                 </tr>
                 <tr>
-                    <td>March 11</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
+                    <td>September 6</td>
+                    <td>8:30-10:15am</td>
+                    <td>Willow Oaks</td>
                     <td>1 vs. 2</td>
                 </tr>
                 <tr>
-                    <td>March 13</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
+                    <td>September 6</td>
+                    <td>10:30-12:00pm</td>
+                    <td>Willow Oaks</td>
                     <td>3 vs. 4</td>
                 </tr>
                 <tr>
-                    <td>March 15</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>1 vs. 4</td>
+                    <td>September 8</td>
+                    <td>7-8:45pm</td>
+                    <td>Kelly</td>
+                    <td>5 vs. 1</td>
                 </tr>
                 <tr>
-                    <td>March 15</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
+                    <td>September 11</td>
+                    <td>6-7:45pm</td>
+                    <td>Willow Oaks</td>
                     <td>2 vs. 3</td>
                 </tr>
                 <tr>
-                    <td>March 18</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>4 vs. 2</td>
+                    <td>September 13</td>
+                    <td>8:30-10:15am</td>
+                    <td>Willow Oaks</td>
+                    <td>2 vs. 5</td>
                 </tr>
                 <tr>
-                    <td>March 20</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>1 vs. 3&nbsp;(Meet-up at <a href="http://theoasisbeergarden.com/" target="_blank">Oasis</a> after)</td>
-                </tr>
-                <tr>
-                    <td>March 22</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>2 vs. 1</td>
-                </tr>
-                <tr>
-                    <td>March 22</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>4 vs. 3</td>
-                </tr>
-                <tr>
-                    <td>March 25</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
+                    <td>September 13</td>
+                    <td>10:30-12:00pm</td>
+                    <td>Willow Oaks</td>
                     <td>1 vs. 4</td>
                 </tr>
                 <tr>
-                    <td>March 27</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>3 vs. 2&nbsp;&nbsp;<span style="color:red; font-weight:bold;">rained out</span></td>
+                    <td>September 15</td>
+                    <td>7-8:45pm</td>
+                    <td>Kelly</td>
+                    <td>1 vs. 3</td>
                 </tr>
                 <tr>
-                    <td>March 29</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>2 vs. 4&nbsp;&nbsp;<span style="color:red; font-weight:bold;">rained out</span></td>
+                    <td>September 18</td>
+                    <td>6-7:45pm</td>
+                    <td>Willow Oaks</td>
+                    <td>2 vs. 5</td>
                 </tr>
                 <tr>
-                    <td>March 29</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>3 vs. 1&nbsp;&nbsp;<span style="color:red; font-weight:bold;">rained out</span></td>
+                    <td>September 20</td>
+                    <td>8:30-10:15am</td>
+                    <td>Willow Oaks</td>
+                    <td>3 vs. 5</td>
+                </tr>
+                <tr>
+                    <td>September 20</td>
+                    <td>10:30-12:00pm</td>
+                    <td>Willow Oaks</td>
+                    <td>2 vs. 4</td>
+                </tr>
+                <tr>
+                    <td>September 22</td>
+                    <td>7-8:45pm</td>
+                    <td>Kelly</td>
+                    <td>3 vs. 4</td>
+                </tr>
+                <tr>
+                    <td>September 25</td>
+                    <td>6-7:45pm</td>
+                    <td>Willow Oaks</td>
+                    <td>1 vs. 5</td>
+                </tr>
+                <tr>
+                    <td>September 27</td>
+                    <td>8:30-10:15am</td>
+                    <td>Willow Oaks</td>
+                    <td>3 vs. 1</td>
+                </tr>
+                <tr>
+                    <td>September 27</td>
+                    <td>10:30-12:00pm</td>
+                    <td>Willow Oaks</td>
+                    <td>2 vs. 5</td>
+                </tr>
+                <tr>
+                    <td>September 29</td>
+                    <td>7-8:45pm</td>
+                    <td>Kelly</td>
+                    <td>4 vs. 2</td>
                 </tr>
         	</table>
         </div><!-- /end content -->
 
-        <h1>April</h1>
+        <h1>October</h1>
 		<div class="content" style="padding-left: 10px;">
             <table width="98%" cellpadding="3" cellspacing="2" border="1">
                 <tr style="background-color:#A58745; color:#FFFFFF;">
@@ -139,103 +155,99 @@ td {white-space: nowrap;}
                     <td>Teams</td>
                 </tr>
                 <tr>
-                    <td>April 1</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>3 vs. 4&nbsp;&nbsp;<span style="color:red; font-weight:bold;">rained out</span></td>
+                    <td>October 2</td>
+                    <td>6-7:45pm</td>
+                    <td>Willow Oaks</td>
+                    <td>5 vs. 3</td>
+                </tr> 
+                <tr>
+                    <td>October 4</td>
+                    <td>8:30-10:15am</td>
+                    <td>Willow Oaks</td>
+                    <td>5 vs. 4</td>
                 </tr>
                 <tr>
-                    <td>April 3</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>2 vs. 1</td>
-                </tr>
-                <tr>
-                    <td>April 5</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>2 vs. 3</td>
-                </tr>
-                <tr>
-                    <td>April 5</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>1 vs. 4</td>
-                </tr>
-                <tr>
-                    <td>April 8</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>4 vs. 2</td>
-                </tr>
-                <tr>
-                    <td>April 10</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
+                    <td>October 4</td>
+                    <td>10:30-12:00pm</td>
+                    <td>Willow Oaks</td>
                     <td>1 vs. 3</td>
                 </tr>
                 <tr>
-                    <td>April 12</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>3 vs. 4</td>
-                </tr>
-                <tr>
-                    <td>April 12</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>1 vs. 2 (Meet-up at Jason's Caf&eacute; after)</td>
-                </tr>
-                <tr>
-                    <td>April 15</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>2 vs. 3</td>
-                </tr>
-                <tr>
-                    <td>April 17</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
+                    <td>October 6</td>
+                    <td>7-8:45pm</td>
+                    <td>Kelly</td>
                     <td>4 vs. 1</td>
+                </tr> 
+                <tr>
+                    <td>October 9</td>
+                    <td>6-7:45pm</td>
+                    <td>Willow Oaks</td>
+                    <td>2 vs. 5</td>
                 </tr>
                 <tr>
-                    <td>April 19</td>
-                    <td colspan="3" class="schedule-mod">NO GAMES - BURGESS CLOSED FOR EASTER</td>
+                    <td>October 11</td>
+                    <td>8:30-10:15am</td>
+                    <td>Willow Oaks</td>
+                    <td>2 vs. 1</td>
                 </tr>
                 <tr>
-                    <td>April 22</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>4 vs. 2</td>
-                </tr>
-                <tr>
-                    <td>April 24</td>
-                  	<td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>3 vs. 1</td>
-                </tr>
-                <tr>
-                    <td>April 26</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>1 vs. 2</td>
-                </tr>
-                <tr>
-                    <td>April 26</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
+                    <td>October 11</td>
+                    <td>10:30-12:00pm</td>
+                    <td>Willow Oaks</td>
                     <td>4 vs. 3</td>
                 </tr>
                 <tr>
-                    <td>April 29</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>3 vs. 2</td>
+                    <td>October 13</td>
+                    <td>7-8:45pm</td>
+                    <td>Kelly</td>
+                    <td>1 vs. 2</td>
                 </tr>
+                <tr>
+                    <td>October 16</td>
+                    <td>6-7:45pm</td>
+                    <td>Willow Oaks</td>
+                    <td>4 vs. 5</td>
+                </tr>
+                <tr>
+                    <td>October 18</td>
+                    <td>8:30-10:15am</td>
+                    <td>Willow Oaks</td>
+                    <td>3 vs. 4</td>
+                </tr>
+                <tr>
+                    <td>October 18</td>
+                    <td>10:30-12:00pm</td>
+                    <td>Willow Oaks</td>
+                    <td>5 vs. 2</td>
+                </tr>
+                <tr>
+                    <td>October 20</td>
+                    <td>7-8:45pm</td>
+                    <td>Kelly</td>
+                    <td>3 vs. 5</td>
+                </tr>
+                <tr>
+                    <td>October 25</td>
+                    <td>8:30-10:15am</td>
+                    <td>Willow Oaks</td>
+                    <td>1 vs. 5</td>
+                </tr> 
+                <tr>
+                    <td>October 25</td>
+                    <td>10:30-12:00pm</td>
+                    <td>Willow Oaks</td>
+                    <td>4 vs. 2</td>
+                </tr>
+                <tr>
+                    <td>October 27</td>
+                    <td>7-8:45pm</td>
+                    <td>Willow Oaks</td>
+                    <td>2 vs. 1</td>
+                </tr>  
             </table>
         </div><!-- /end content -->
 
-        <h1>May</h1>
+        <h1>November</h1>
   		<div class="content" style="padding-left: 10px;">
             <table width="98%" cellpadding="3" cellspacing="2" border="1">
                 <tr style="background-color:#A58745; color:#FFFFFF;">
@@ -245,54 +257,40 @@ td {white-space: nowrap;}
                     <td>Teams</td>
                 </tr>
                 <tr>
-                    <td>May 1</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
+                    <td>November 1</td>
+                    <td>8:30-10:15am</td>
+                    <td>Willow Oaks</td>
                     <td>1 vs. 4</td>
                 </tr>
                 <tr>
-                    <td>May 3</td>
-                    <td colspan="3" class="schedule-mod">Round Robin Tournament, 8:00am-12:00pm, Burgess</td>
+                    <td>November 1</td>
+                    <td>10:30-12:00pm</td>
+                    <td>Willow Oaks</td>
+                    <td>5 vs. 3</td>
                 </tr>
                 <tr>
-                    <td>May 6</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>3 vs. 1</td>
+                    <td>November 3</td>
+                    <td>7-8:45pm</td>
+                    <td>Kelly</td>
+                    <td>3 vs. 4</td>
                 </tr>
                 <tr>
-                    <td>May 8</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>4 vs. 2</td>
+                    <td>November 8</td>
+                    <td>8:30-10:15am</td>
+                    <td>Willow Oaks</td>
+                    <td>2 vs. 4</td>
                 </tr>
                 <tr>
-                    <td>May 10</td>
-                    <td colspan="3" class="schedule-mod">Mother's Day weekend pick-up soccer, 8:30-10:00am, Burgess</td>
-                </tr>
-                <tr>
-                    <td>May 13</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>4 vs. 1</td>
-                </tr>
-                <tr>
-                    <td>May 15</td>
-                    <td>6:15pm</td>
-                    <td>Burgess</td>
-                    <td>2 vs. 3</td>
-                </tr>
-                <tr>
-                    <td>May 17</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
+                    <td>November 8</td>
+                    <td>10:30-12:00pm</td>
+                    <td>Willow Oaks</td>
                     <td>1 vs. 3</td>
                 </tr>
                 <tr>
-                    <td>May 17</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>4 vs. 2 (Meet-up at Jason's Caf&eacute; after)</td>
+                    <td>November 15</td>
+                    <td>8:30-12:00pm</td>
+                    <td>Willow Oaks</td>
+                    <td>Pick-up games (all teams play)</td>
                 </tr>
             </table><br /><br />
 		</div><!-- /end content -->
