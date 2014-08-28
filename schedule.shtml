@@ -27,7 +27,7 @@ td {white-space: nowrap;}
         	If you have questions regarding the schedule, please contact Amanda Midboe (alabamander at gmail.com).<br /><br />
             <em>Teams listed first are &quot;home&quot; and wear red.</em><br /><br />
 			<img src="images/printer.gif" width="13" height="10" alt="" />
-			<a href="schedules/MAASLFieldSchedule-Fall2014rev3.pdf" target="_blank">View printable game schedule</a><br /><br />
+			<a href="schedules/MAASLFieldSchedule-Fall2014rev4.pdf" target="_blank">View printable game schedule</a><br /><br />
 			<!-- <img src="images/printer.gif" width="13" height="10" alt="" />
 			<a href="schedules/MAASLSpring2013RoundRobinSchedule.pdf">View Printable Round Robin Schedule</a><br /><br /> -->
 		</p>
@@ -54,13 +54,13 @@ td {white-space: nowrap;}
                 </tr>
                 <tr>
                     <td>September 6</td>
-                    <td>8:30-10:15am</td>
+                    <td>8:30-10:00am</td>
                     <td>Willow Oaks</td>
                     <td>1 vs. 2</td>
                 </tr>
                 <tr>
                     <td>September 6</td>
-                    <td>10:30-12:00pm</td>
+                    <td>10:15-11:45am</td>
                     <td>Willow Oaks</td>
                     <td>3 vs. 4</td>
                 </tr>
@@ -78,13 +78,13 @@ td {white-space: nowrap;}
                 </tr>
                 <tr>
                     <td>September 13</td>
-                    <td>8:30-10:15am</td>
+                    <td>8:30-10:00am</td>
                     <td>Willow Oaks</td>
                     <td>2 vs. 5</td>
                 </tr>
                 <tr>
                     <td>September 13</td>
-                    <td>10:30-12:00pm</td>
+                    <td>10:15-11:45am</td>
                     <td>Willow Oaks</td>
                     <td>1 vs. 4</td>
                 </tr>
@@ -102,13 +102,13 @@ td {white-space: nowrap;}
                 </tr>
                 <tr>
                     <td>September 20</td>
-                    <td>8:30-10:15am</td>
+                    <td>8:30-10:00am</td>
                     <td>Willow Oaks</td>
                     <td>3 vs. 5</td>
                 </tr>
                 <tr>
                     <td>September 20</td>
-                    <td>10:30-12:00pm</td>
+                    <td>10:15-11:45am</td>
                     <td>Willow Oaks</td>
                     <td>2 vs. 4</td>
                 </tr>
@@ -126,13 +126,13 @@ td {white-space: nowrap;}
                 </tr>
                 <tr>
                     <td>September 27</td>
-                    <td>8:30-10:15am</td>
+                    <td>8:30-10:00am</td>
                     <td>Willow Oaks</td>
                     <td>3 vs. 1</td>
                 </tr>
                 <tr>
                     <td>September 27</td>
-                    <td>10:30-12:00pm</td>
+                    <td>10:15-11:45am</td>
                     <td>Willow Oaks</td>
                     <td>2 vs. 5</td>
                 </tr>
@@ -162,13 +162,13 @@ td {white-space: nowrap;}
                 </tr> 
                 <tr>
                     <td>October 4</td>
-                    <td>8:30-10:15am</td>
+                    <td>8:30-10:00am</td>
                     <td>Willow Oaks</td>
                     <td>5 vs. 4</td>
                 </tr>
                 <tr>
                     <td>October 4</td>
-                    <td>10:30-12:00pm</td>
+                    <td>10:15-11:45am</td>
                     <td>Willow Oaks</td>
                     <td>1 vs. 3</td>
                 </tr>
@@ -186,13 +186,13 @@ td {white-space: nowrap;}
                 </tr>
                 <tr>
                     <td>October 11</td>
-                    <td>8:30-10:15am</td>
+                    <td>8:30-10:00am</td>
                     <td>Willow Oaks</td>
                     <td>2 vs. 1</td>
                 </tr>
                 <tr>
                     <td>October 11</td>
-                    <td>10:30-12:00pm</td>
+                    <td>10:15-11:45am</td>
                     <td>Willow Oaks</td>
                     <td>4 vs. 3</td>
                 </tr>
@@ -210,13 +210,13 @@ td {white-space: nowrap;}
                 </tr>
                 <tr>
                     <td>October 18</td>
-                    <td>8:30-10:15am</td>
+                    <td>8:30-10:00am</td>
                     <td>Willow Oaks</td>
                     <td>3 vs. 4</td>
                 </tr>
                 <tr>
                     <td>October 18</td>
-                    <td>10:30-12:00pm</td>
+                    <td>10:15-11:45am</td>
                     <td>Willow Oaks</td>
                     <td>5 vs. 2</td>
                 </tr>
@@ -228,13 +228,13 @@ td {white-space: nowrap;}
                 </tr>
                 <tr>
                     <td>October 25</td>
-                    <td>8:30-10:15am</td>
+                    <td>8:30-10:00am</td>
                     <td>Willow Oaks</td>
                     <td>1 vs. 5</td>
                 </tr> 
                 <tr>
                     <td>October 25</td>
-                    <td>10:30-12:00pm</td>
+                    <td>10:15-11:45am</td>
                     <td>Willow Oaks</td>
                     <td>4 vs. 2</td>
                 </tr>
@@ -264,7 +264,7 @@ td {white-space: nowrap;}
                 </tr>
                 <tr>
                     <td>November 1</td>
-                    <td>10:30-12:00pm</td>
+                    <td>10:15-11:45am</td>
                     <td>Willow Oaks</td>
                     <td>5 vs. 3</td>
                 </tr>
@@ -282,7 +282,7 @@ td {white-space: nowrap;}
                 </tr>
                 <tr>
                     <td>November 8</td>
-                    <td>10:30-12:00pm</td>
+                    <td>10:15-11:45am</td>
                     <td>Willow Oaks</td>
                     <td>1 vs. 3</td>
                 </tr>
