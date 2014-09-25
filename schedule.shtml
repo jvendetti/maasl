@@ -120,7 +120,7 @@ td {white-space: nowrap;}
                 </tr>
                 <tr>
                     <td>September 25</td>
-                    <td>6-7:30pm</td>
+                    <td style="color:red;"><strong>Cancelled Due to Rain</strong></td>
                     <td>Willow Oaks</td>
                     <td>1 vs. 5</td>
                 </tr>
