@@ -10,7 +10,6 @@
 	<li><a href="schedule.shtml">Game Schedule</a></li>
 	<li><a href="links.shtml">Links &amp; Upcoming Events</a></li>
 	<li><a href="register.shtml">Register for MAASL</a></li>
-	<li><a href="sponsors.shtml">Sponsors</a></li>
 	<li><a href="rosters.shtml">Team Rosters</a></li>
 	</ul>
 </div>
