@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -11,82 +11,82 @@
 
 <!-- Begin Wrapper -->
 <div id="wrapper">
-   
+
 	<!-- Begin Left Column -->
 	<div id="leftcolumn">
 
 		<div class="logo">
 			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
 		</div>
-		
+
 		<!--#include virtual="/includes/navbar.inc" -->
 
 	</div>
-	  
+
 	<!-- Begin Right Column -->
 	<div id="rightcolumn">
-	
+
     <h1>Register for MAASL</h1>
 
         <p class="content">
         <span style="color:red; font-weight:bold;">Please read the following important information before registering.</span><br /><br />
-        
+
         <strong>Session Information</strong><br /><br />
-        
+
         <!-- The Fall 2014 season starts the first week of September.<br /><br />
         Fall 2015 starts Saturday, March 7th.  Registration closed <strong>Feburary 7th</strong>. Since it is past the official registration date, placement on a team isn't guaranteed and you will be placed on a waitlist. -->
 
         <!-- The Fall 2014 season starts the first week of September.<br /><br /> -->
-        The Spring 2016 season starts the first week of March.  Early registration begins January 11th and closes midnight February 14th.  Late registration begins February 14th and closes midnight February 28th. 
+        The Fall 2016 season starts August 27th.  Early registration begins July 11th and closes Sunday July 31st at 11:45pm.  Late registration begins August 1st and closes Wednesday August 10th at 11:45pm.
 
         <!--Please register early!-->Teams are formed on a first-come, first served basis.  MAASL attempts to honor requests from players wishing to be paired on the same team, but we are unable to guarantee that all such requests are granted.<br /><br />
-        
+
         <strong>Fees</strong><br /><br />
-        
+
         Early Registration fees are <strong>$75.00</strong> for Menlo Park residents, <strong>$85.00</strong> for non-residents, and <strong>$25.00</strong> for MAASL jerseys.  <br/><br/>
 
-        Late Registration fees are <strong>$90.00</strong> for Menlo Park residents, <strong>$100.00</strong> for non-residents, and <strong>$25.00</strong> for MAASL jerseys.  <em>All players must wear official MAASL jerseys during games</em>.  Before registering, please make sure to familiarize 
+        Late Registration fees are <strong>$90.00</strong> for Menlo Park residents, <strong>$100.00</strong> for non-residents, and <strong>$25.00</strong> for MAASL jerseys.  <em>All players must wear official MAASL jerseys during games</em>.  Before registering, please make sure to familiarize
         yourself with our refund policy toward the bottom of this page.<br /><br />
-        
+
         <!-- <strong>Group Registrations</strong><br /><br />
-        
-        If you want to play with one or two of your friends, MAASL will accommodate requests of up to 3 players wishing 
-        to be placed on the same team.  Groups larger than 3 will be split arbitrarily.  Please clearly indicate somewhere 
+
+        If you want to play with one or two of your friends, MAASL will accommodate requests of up to 3 players wishing
+        to be placed on the same team.  Groups larger than 3 will be split arbitrarily.  Please clearly indicate somewhere
         on your application the names of the women you want to play with.<br /><br /> -->
-        
+
         <strong>Uniforms</strong><br /><br />
-        
-        All players, except goalies are required to wear official MAASL jerseys during games (jerseys can be purchased as part of the online 
-        registration process).  Your team coordinator will supply you with a jersey in the size you indicated during registration at the beginning of the 
-        season.  If you have questions about MAASL jerseys, please contact our uniforms and equipment manager Lisa Collins (lizacollins at yahoo.com).  
-        Shin guards are required and must be covered by soccer socks.  Shorts and socks may be of any color.  Players must not use equipment or wear 
+
+        All players, except goalies are required to wear official MAASL jerseys during games (jerseys can be purchased as part of the online
+        registration process).  Your team coordinator will supply you with a jersey in the size you indicated during registration at the beginning of the
+        season.  If you have questions about MAASL jerseys, please contact our uniforms and equipment manager Lisa Collins (lizacollins at yahoo.com).
+        Shin guards are required and must be covered by soccer socks.  Shorts and socks may be of any color.  Players must not use equipment or wear
         anything that is dangerous to herself or another player (including any kind of jewelry).  Leg braces must be covered.
         <br /><br />
-        
+
         <strong>Registration Instructions</strong><br /><br />
-        
+
         <!-- <span style="color:red; font-weight:bold;">Registration for Spring 2013 is closed.  Online form for Fall 2013 coming soon.</span><br /><br /> -->
-        
-		
-        Please use our <a href="https://maasl.wufoo.com/forms/xc6zyer1vlpj8a/"><strong>online form</strong></a> to <!--register-->be placed on a team for the Spring 2016 season.  All payments are collected via <a href="https://www.paypal.com/">PayPal</a>.  You don't need to have a PayPal account in order to pay via PayPal, but you may want to set one up to make the registration process easier.  You will receive an automated e-mail confirmation after you register; if you don't receive confirmation within a day or two, you must contact us to verify your registration.
+
+
+        Please use our <a href="https://maasl.wufoo.com/forms/k1yfqs5e1b5jpn2/" target="_blank"><strong>online form</strong></a> to <!--register-->be placed on a team for the Fall 2016 season.  All payments are collected via <a href="https://www.paypal.com/" target="_blank">PayPal</a>.  You don't need to have a PayPal account in order to pay via PayPal, but you may want to set one up to make the registration process easier.  You will receive an automated e-mail confirmation after you register; if you don't receive confirmation within a day or two, you must contact us to verify your registration.
         <br /><br />
-        
+
         <strong>Wait List</strong><br /><br />
-		Players who register and pay after the start of the season will be placed on a wait list. The Registrar will manage the wait list and 
-		place those players on teams as soon as possible. If we are unable to place you on a team, we will notify you within two weeks and issue a 
+		Players who register and pay after the start of the season will be placed on a wait list. The Registrar will manage the wait list and
+		place those players on teams as soon as possible. If we are unable to place you on a team, we will notify you within two weeks and issue a
 		complete refund of fees.<br /><br />
 
 
 
         <strong>Refund Policy</strong><br /><br />
-        Full refunds are granted <em>only if you notify us within 3 weeks of the start of the 
-        season</em>.  This period of time gives the board a chance to replace you with someone from the waiting list.  Due to the 
-        fact that MAASL is a non-profit league with fixed expenses each season, we are not in a position to offer refunds if 
-        you notify us any later than 3 weeks from the season start date.  This includes partial refunds and/or credits for 
+        Full refunds are granted <em>only if you notify us within 3 weeks of the start of the
+        season</em>.  This period of time gives the board a chance to replace you with someone from the waiting list.  Due to the
+        fact that MAASL is a non-profit league with fixed expenses each season, we are not in a position to offer refunds if
+        you notify us any later than 3 weeks from the season start date.  This includes partial refunds and/or credits for
         the following season.  Thank you for your understanding.<br /><br />
-        
+
         <strong>Conditions of League Play</strong><br /><br />
-        In consideration of my being permitted to participate in the Menlo-Atherton Adult Soccer, Inc. program referred to in this Application for recreational benefits to myself, I hereby for myself, my heirs, executors, and administrators, waive and release any and all claims for damages I may have against Menlo Atherton Adult Soccer, Inc., the individual members thereof, and all the officers, agents, and employees, and hold the corporation and all such persons free and harmless to any loss, damage, liability, injury, cost or expense that may be suffered by me while participating in or practicing for soccer and all related games, tournaments and other activities. 
+        In consideration of my being permitted to participate in the Menlo-Atherton Adult Soccer, Inc. program referred to in this Application for recreational benefits to myself, I hereby for myself, my heirs, executors, and administrators, waive and release any and all claims for damages I may have against Menlo Atherton Adult Soccer, Inc., the individual members thereof, and all the officers, agents, and employees, and hold the corporation and all such persons free and harmless to any loss, damage, liability, injury, cost or expense that may be suffered by me while participating in or practicing for soccer and all related games, tournaments and other activities.
 
         Player agrees by registering that she is aware of the signs of a concussion:
         Headache or “pressure” in the head  Double or blurry vision
@@ -105,7 +105,7 @@
 	<div class="clear"></div>
 
 </div>
-   
+
 <!--#include virtual="/includes/footer.inc" -->
 
 </body>

@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -11,28 +11,28 @@
 
 <!-- Begin Wrapper -->
 <div id="wrapper">
-   
+
 	<!-- Begin Left Column -->
 	<div id="leftcolumn">
 
 		<div class="logo">
 			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
 		</div>
-		
+
 		<!--#include virtual="/includes/navbar.inc" -->
 
 	</div>
-	  
+
 	<!-- Begin Right Column -->
 	<div id="rightcolumn">
 
 	<h1>Board of Directors</h1>
-	
+
 	<p class="content">
 	Board members meet several times a year to put teams together and address current issues.<br /><br />
-	
-	All members are volunteers and help make this league possible. If you would like to become a board member, 
-	please contact our Webmaster (name and email address below) with your name, phone number, and an indication 
+
+	All members are volunteers and help make this league possible. If you would like to become a board member,
+	please contact our Webmaster (name and email address below) with your name, phone number, and an indication
 	of which position(s) you would like to fill.<br /><br />
 	</p>
 
@@ -80,8 +80,8 @@
 		</tr>
 		<tr>
 			<td>Registrar</td>
-			<td>Bridget Conrad</td>
-			<td>bridgetconrad at gmail.com</td>
+			<td>Heather Downs</td>
+			<td>druidsquirrel at yahoo.com</td>
 		</tr>
 		<tr>
 			<td>Referees</td>
@@ -100,8 +100,8 @@
 
 	</div>
 	<div class="clear"></div>
-</div>  
-   
+</div>
+
 <!--#include virtual="/includes/footer.inc" -->
 
 </body>
