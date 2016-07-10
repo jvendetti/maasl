@@ -22,16 +22,16 @@ td {white-space: nowrap;}
 	</div><!-- /end leftcolumn -->
 	  
 	<div id="rightcolumn">
-		<h1>Fall 2015 Game Schedule</h1>
+		<h1>Spring 2016 Game Schedule</h1>
         <p class="content">
         	If you have questions regarding the schedule, please contact Amanda Midboe (alabamander at gmail.com).<br /><br />
             <em>Teams listed first are &quot;home&quot; and wear red.</em><br /><br />
 			<img src="images/printer.gif" width="13" height="10" alt="" />
-			<a href="schedules/MAASL_FieldScheduleFall2015_V2.pdf" target="_blank">View printable game schedule</a><br /><br />
+			<a href="schedules/MAASL_FieldScheduleSpring2016.pdf" target="_blank">View printable game schedule</a><br /><br />
 			<!-- <img src="images/printer.gif" width="13" height="10" alt="" />
 			<a href="schedules/MAASLSpring2013RoundRobinSchedule.pdf">View Printable Round Robin Schedule</a><br /><br /> -->
 		</p>
-        <h1>September</h1>
+        <h1>March</h1>
 		<div class="content" style="padding-left: 10px;">
 			<table width="98%" cellpadding="3" cellspacing="2" border="1">
 				<tr style="background-color:#A58745; color:#FFFFFF;">
@@ -41,117 +41,75 @@ td {white-space: nowrap;}
                     <td>Teams</td>
                 </tr>
                 <tr>
-                    <td>8/31</td>
-                    <td>7-8:30pm</td>
+                    <td>3/12</td>
+                    <td>8:30am</td>
+                    <td>Burgess</td>
+                    <td>Welcome Clinic & Scrimmage</td>
+                </tr>
+                <tr>
+                    <td>3/14</td>
+                    <td>7:00pm</td>
                     <td>Kelly</td>
-                    <td>1 v 2</td>
-                </tr>
-                <tr>
-                    <td>9/3</td>
-                    <td>6-7:30pm </td>
-                    <td>Willow Oaks</td>
-                    <td>3 v 4</td>
-                </tr>
-                <tr>
-                    <td>9/5</td>
-                    <td>8:30-10:00am</td>
-                    <td>Willow Oaks</td>
-                    <td>1 v 3</td>
-                </tr>
-                <tr>
-                    <td>9/5</td>
-                    <td>10:15-11:45am</td>
-                    <td>Willow Oaks</td>
-                    <td>2 v 4</td>
-                </tr>
-                <tr>
-                    <td>9/7</td>
-                    <td></td>
-                    <td></td>
-                    <td>Labor Day - No Games</td>
-                </tr>
-                <tr>
-                    <td>9/10</td>
-                    <td>6-7:30pm </td>
-                    <td>Willow Oaks</td>
-                    <td>4 v 1</td>
-                </tr>
-                <tr>
-                    <td>9/12</td>
-                    <td>8:30–10:00am</td>
-                    <td>Willow Oaks</td>
-                    <td>CLINIC – ALL TEAMS</td>
-                </tr>
-                <tr>
-                    <td>9/12</td>
-                    <td>10:15-11:45am</td>
-                    <td>Willow Oaks</td>
-                    <td>PICK-UP – ALL TEAMS</td>
-                </tr>
-                <tr>
-                    <td>9/14</td>
-                    <td>7-8:30pm</td>
-                    <td>Kelly</td>
-                    <td>4 v 2</td>
-                </tr>
-                <tr>
-                    <td>9/17</td>
-                    <td>6-7:30pm </td>
-                    <td>Willow Oaks</td>
-                    <td>3 v 1</td>
-                </tr>
-                <tr>
-                    <td>9/19</td>
-                    <td>8:30-10:00am</td>
-                    <td>Willow Oaks</td>
-                    <td>2 v 1</td>
-                </tr>
-                <tr>
-                    <td>9/19</td>
-                    <td>10:00-10:30am</td>
-                    <td>Willow Oaks</td>
-                    <td>35th ANNIVERSARY CELEBRATION</td>
-                </tr>
-                <tr>
-                    <td>9/19</td>
-                    <td>10:30-12:00pm</td>
-                    <td>Willow Oaks</td>
-                    <td>4 v 3</td>
-                </tr>
-                <tr>
-                    <td>9/21</td>
-                    <td>7-8:30pm</td>
-                    <td>Kelly</td>
-                    <td>1 v 3</td>
-                </tr>
-                <tr>
-                    <td>9/24</td>
-                    <td>6-7:30pm</td>
-                    <td>Willow Oaks</td>
-                    <td>2 v 4</td>
-                </tr>
-                <tr>
-                    <td>9/26</td>
-                    <td>8:30-10:00am</td>
-                    <td>Willow Oaks</td>
                     <td>2 v 3</td>
                 </tr>
                 <tr>
-                    <td>9/26</td>
-                    <td>10:15-11:45am</td>
-                    <td>Willow Oaks</td>
+                    <td>3/17</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
+                    <td>5 v 1</td>
+                </tr>
+                <tr>
+                    <td>3/19</td>
+                    <td>8:30am</td>
+                    <td>Burgess</td>
+                    <td>5 v 2</td>
+                </tr>
+                <tr>
+                    <td>3/19</td>
+                    <td>10:15am</td>
+                    <td>Burgess</td>
                     <td>1 v 4</td>
                 </tr>
                 <tr>
-                    <td>9/28</td>
-                    <td>7-8:30pm</td>
+                    <td>3/21</td>
+                    <td>7:00pm</td>
                     <td>Kelly</td>
-                    <td>4 v 2</td>
+                    <td>1 v 3</td>
+                </tr>
+                <tr>
+                    <td>3/24</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
+                    <td>4 v 5</td>
+                </tr>
+                <tr>
+                    <td>3/26</td>
+                    <td>8:30am</td>
+                    <td>Burgess</td>
+                    <td>3 v 5</td>
+                </tr>
+                <tr>
+                    <td>3/26</td>
+                    <td>10:15am</td>
+                    <td>Burgess</td>
+                    <td>2 v 4</td>
+                </tr>
+                <tr>
+                    <td>3/28</td>
+                    <td>7:00pm</td>
+                    <td>Kelly</td>
+                    <td>1 v 5</td>
+                </tr>
+                <tr>
+                    <td>3/31</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
+                    <td>3 v 4</td>
                 </tr>
         	</table>
         </div><!-- /end content -->
 
-        <h1>October</h1>
+        <h1>April</h1>
 		<div class="content" style="padding-left: 10px;">
             <table width="98%" cellpadding="3" cellspacing="2" border="1">
                 <tr style="background-color:#A58745; color:#FFFFFF;">
@@ -161,112 +119,118 @@ td {white-space: nowrap;}
                     <td>Teams</td>
                 </tr>
                 <tr>
-                    <td>10/1</td>
-                    <td>6:00-7:30pm</td>
-                    <td>Willow Oaks</td>
-                    <td>1 v 3</td>
+                    <td>4/2</td>
+                    <td>8:30am</td>
+                    <td>Burgess</td>
+                    <td>2 v 1</td>
                 </tr> 
                 <tr>
                 <tr>
-                    <td>10/3</td>
-                    <td>8:30-10:00am</td>
-                    <td>Willow Oaks</td>
-                    <td>3 v 2</td>
+                    <td>4/2</td>
+                    <td>10:15am</td>
+                    <td>Burgess</td>
+                    <td>4 v 3</td>
                 </tr>
                 <tr>
-                    <td>10/3</td>
-                    <td>10:15-11:45am</td>
-                    <td>Willow Oaks</td>
-                    <td>4 v 1</td>
-                </tr>
-                <tr>
-                    <td>10/5</td>
-                    <td>7-8:30pm</td>
+                    <td>4/4</td>
+                    <td>7:00pm</td>
                     <td>Kelly</td>
-                    <td>3 v 1</td>
-                </tr>
-                <tr>
-                    <td>10/8</td>
-                    <td>6:00-7:30pm</td>
-                    <td>Willow Oaks</td>
                     <td>4 v 2</td>
                 </tr>
                 <tr>
-                    <td>10/10</td>
-                    <td>8:30-10:00am</td>
-                    <td>Willow Oaks</td>
-                    <td>1 v 2</td>
+                    <td>4/7</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
+                    <td>5 v 3</td>
                 </tr>
                 <tr>
-                    <td>10/10</td>
-                    <td>10:15-11:45am</td>
-                    <td>Willow Oaks</td>
-                    <td>3 v 4</td>
+                    <td>4/9</td>
+                    <td>8:30am</td>
+                    <td>Burgess</td>
+                    <td>5 v 4</td>
                 </tr>
                 <tr>
-                    <td>10/12</td>
-                    <td>7:00-8:30pm</td>
-                    <td>Kelly</td>
-                    <td>2 v 4</td>
-                </tr>
-                <tr>
-                    <td>10/15</td>
-                    <td>6-7:30pm</td>
-                    <td>Willow Oaks</td>
+                    <td>4/9</td>
+                    <td>10:15am</td>
+                    <td>Burgess</td>
                     <td>1 v 3</td>
                 </tr>
                 <tr>
-                    <td>10/17</td>
-                    <td>8:30-10:00am</td>
-                    <td>Willow Oaks</td>
-                    <td>3 v 2</td>
-                </tr>
-                <tr>
-                    <td>10/17</td>
-                    <td>10:15-11:45am</td>
-                    <td>Willow Oaks</td>
+                    <td>4/11</td>
+                    <td>7:00pm</td>
+                    <td>Kelly</td>
                     <td>4 v 1</td>
                 </tr>
                 <tr>
-                    <td>10/19</td>
-                    <td>7:00-8:30pm</td>
-                    <td>Kelly</td>
-                    <td>3 v 2</td>
+                    <td>4/14</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
+                    <td>2 v 3</td>
                 </tr>
                 <tr>
-                    <td>10/24</td>
-                    <td>8:30-10:00am</td>
-                    <td>Willow Oaks</td>
+                    <td>4/16</td>
+                    <td>8:30am</td>
+                    <td>Burgess</td>
                     <td>3 v 1</td>
                 </tr>
                 <tr>
-                    <td>10/24</td>
-                    <td>10:15-11:45am</td>
-                    <td>Willow Oaks</td>
-                    <td>2 v 4</td>
+                    <td>4/16</td>
+                    <td>10:15am</td>
+                    <td>Burgess</td>
+                    <td>2 v 5</td>
                 </tr>
                 <tr>
-                    <td>10/26</td>
-                    <td>7-8:30pm</td>
+                    <td>4/18</td>
+                    <td>7:00pm</td>
                     <td>Kelly</td>
-                    <td>1 v 4</td>
+                    <td>1 v 2</td>
                 </tr>
                 <tr>
-                    <td>10/31</td>
-                    <td>8:30-10:00am</td>
-                    <td>Willow Oaks</td>
+                    <td>4/21</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
+                    <td>4 v 5</td>
+                </tr>
+                <tr>
+                    <td>4/23</td>
+                    <td>8:30am</td>
+                    <td>Burgess</td>
+                    <td>1 v 5</td>
+                </tr>
+                <tr>
+                    <td>4/23</td>
+                    <td>10:15am</td>
+                    <td>Burgess</td>
+                    <td>3 v 4</td>
+                </tr>
+                <tr>
+                    <td>4/25</td>
+                    <td>7:00pm</td>
+                    <td>Kelly</td>
+                    <td>3 v 5</td>
+                </tr>
+                <tr>
+                    <td>4/28</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
                     <td>2 v 1</td>
                 </tr>
                 <tr>
-                    <td>10/31</td>
-                    <td>10:15-11:45am</td>
-                    <td>Willow Oaks</td>
-                    <td>4 v 3</td>
+                    <td>4/30</td>
+                    <td>8:30am</td>
+                    <td>Burgess</td>
+                    <td>4 v 2</td>
+                </tr>
+                <tr>
+                    <td>4/30</td>
+                    <td>10:15am</td>
+                    <td>Burgess</td>
+                    <td>5 v 1</td>
                 </tr>
             </table>
         </div><!-- /end content -->
 
-        <h1>November</h1>
+        <h1>May</h1>
   		<div class="content" style="padding-left: 10px;">
             <table width="98%" cellpadding="3" cellspacing="2" border="1">
                 <tr style="background-color:#A58745; color:#FFFFFF;">
@@ -276,40 +240,82 @@ td {white-space: nowrap;}
                     <td>Teams</td>
                 </tr>
                 <tr>
-                    <td>11/2</td>
-                    <td>7-8:30pm</td>
+                    <td>5/2</td>
+                    <td>7:00pm</td>
+                    <td>Kelly</td>
+                    <td>4 v 1</td>
+                </tr>
+                <tr>
+                    <td>5/5</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
+                    <td>3 v 2</td>
+                </tr>
+                <tr>
+                    <td>5/7</td>
+                    <td>8:30am</td>
+                    <td>Burgess</td>
+                    <td>2 v 4</td>
+                </tr>
+                <tr>
+                    <td>5/7</td>
+                    <td>10:15am</td>
+                    <td>Burgess</td>
+                    <td>5 v 3</td>
+                </tr>
+                <tr>
+                    <td>5/9</td>
+                    <td>7:00pm</td>
+                    <td>Kelly</td>
+                    <td>2 v 5</td>
+                </tr>
+                <tr>
+                    <td>5/12</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
+                    <td>3 v 1</td>
+                </tr>
+                <tr>
+                    <td>5/14</td>
+                    <td>8:30am</td>
+                    <td>Burgess</td>
+                    <td>1 v 4</td>
+                </tr>
+                <tr>
+                    <td>5/14</td>
+                    <td>10:15am</td>
+                    <td>Burgess</td>
+                    <td>2 v 3</td>
+                </tr>
+                <tr>
+                    <td>5/16</td>
+                    <td>7:00pm</td>
+                    <td>Kelly</td>
+                    <td>4 v 5</td>
+                </tr>
+                <tr>
+                    <td>5/19</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
+                    <td>1 v 2</td>
+                </tr>
+                <tr>
+                    <td>5/21</td>
+                    <td>8:30-12pm</td>
+                    <td>Burgess</td>
+                    <td>Round Robin Tournament</td>
+                </tr>
+                <tr>
+                    <td>5/23</td>
+                    <td>7:00pm</td>
                     <td>Kelly</td>
                     <td>3 v 4</td>
                 </tr>
                 <tr>
-                    <td>11/7</td>
-                    <td>8:30-10:00am</td>
-                    <td>Willow Oaks</td>
-                    <td>3 v 2</td>
-                </tr>
-                <tr>
-                    <td>11/7</td>
-                    <td>10:15-11:45am</td>
-                    <td>Willow Oaks</td>
-                    <td>4 v 1</td>
-                </tr>
-                <tr>
-                    <td>11/9</td>
-                    <td>7-8:30pm</td>
-                    <td>Kelly</td>
-                    <td>1 v 2</td>
-                </tr>
-                <tr>
-                    <td>11/14</td>
-                    <td>8:30-10:00am</td>
-                    <td>Willow Oaks</td>
-                    <td>3 v 1</td>
-                </tr>
-                <tr>
-                    <td>11/14</td>
-                    <td>10:15-11:45am</td>
-                    <td>Willow Oaks</td>
-                    <td>2 v 4</td>
+                    <td>5/26</td>
+                    <td>6:00pm</td>
+                    <td>Burgess</td>
+                    <td>5 v 2</td>
                 </tr>
             </table><br /><br />
 		</div><!-- /end content -->
