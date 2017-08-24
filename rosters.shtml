@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -16,199 +16,370 @@
 <div id="wrapper">
   <div id="leftcolumn">
     <div class="logo"> <img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/> </div>
-    <!--#include virtual="/includes/navbar.inc" --> 
+    <!--#include virtual="/includes/navbar.inc" -->
   </div><!-- /end leftcolumn -->
-  
+
   <div id="rightcolumn">
-    <h1>Spring 2016 Team Rosters</h1>
-    <p class="content"> If you have questions regarding the rosters, 
-    please contact Bridget Conrad (bridgetconrad at gmail.com).<br /><br />
-    
-    Are you new to soccer and wondering how to play?  Download and check 
-    out our helpful <a href="docs/soccer-basics.doc">Soccer Basics handout</a> 
+    <h1>Spring 2017 Team Rosters</h1>
+    <p class="content"> 
+<b>Fall 2017 rosters coming soon!</b><br /><br />
+
+     If you have questions regarding the rosters,
+    please contact the Registrar.<br /><br />
+
+    Are you new to soccer and wondering how to play?  Download and check
+    out our helpful <a href="docs/soccer-basics.doc">Soccer Basics handout</a>
     (Microsoft Word format).<br /><br />
-    
+
     * board member, ** team coordinator
 		</p>
-    
+
     <table width="97%" cellpadding="3" cellspacing="2" border="0">
       <tr>
         <td nowrap="nowrap" width="50%">
         	<!-- TEAM 1 -->
-          <table width="100%" border="1" cellpadding="3">
-            <tr style="background-color:#A58745;">
-              <td><span class="team">TEAM 1</span></td>
-            </tr>
-            <tr><td>Allison Briceno</td></tr>
-            <tr><td>Alyson Musser</td></tr>
-            <tr><td>Amanda Midboe *</td></tr>
-            <tr><td>Ana Janof</td></tr>
-            <tr><td>Carlie Ware Horne</td></tr>
-            <tr><td>Connilee Hayes</td></tr>
-            <tr><td>Deborah Tan</td></tr>
-            <tr><td>Elanor Dougherty</td></tr>
-            <tr><td>Holly Fudenna</td></tr>
-            <tr><td>Icie Legrand</td></tr>
-            <tr><td>Jazmin Godinez</td></tr>
-            <tr><td>Kerry Wang</td></tr>
-            <tr><td>Maritza Rae Santiago</td></tr>
-            <tr><td>Nidhi Rathish</td></tr>
-            <tr><td>Penelope Greenberg</td></tr>
-            <tr><td>Rachelle Rasmussen</td></tr>
-            <tr><td>Rebecca Bauer</td></tr>
-            <tr><td><strong>Ronit Belson **</strong></td></tr>
-            <tr><td>Sandra Bruschi</td></tr>
-            <tr><td>Sara Bennett</td></tr>
-            <tr><td>Willa Caughey</td></tr>
-            <tr><td>&nbsp;</td></tr>
-            <tr><td><strong>Total players: 21</strong></td></tr>
-          </table>
+            <table width="100%" border="1" cellpadding="3">
+               <tbody>
+                  <tr style="background-color:#A58745;">
+                     <td><span class="team">TEAM 1</span></td>
+                  </tr>
+                  <tr>
+                     <td>Nancy Nuckolls *</td>
+                  </tr>
+                  <tr>
+                     <td>Kathy Kelleher</td>
+                  </tr>
+                  <tr>
+                     <td><b>Abigail Christensen **</b></td>
+                  </tr>
+                  <tr>
+                     <td>Susie Schinski</td>
+                  </tr>
+                  <tr>
+                     <td>Candice Wheeler</td>
+                  </tr>
+                  <tr>
+                     <td>Ashley Schildwachter (Leprine)</td>
+                  </tr>
+                  <tr>
+                     <td>Laura LaMont</td>
+                  </tr>
+                  <tr>
+                     <td>Amanda Midboe</td>
+                  </tr>
+                  <tr>
+                     <td>Catherine Carragee</td>
+                  </tr>
+                  <tr>
+                     <td>Erin Shannon</td>
+                  </tr>
+                  <tr>
+                     <td>Katie Dillon</td>
+                  </tr>
+                  <tr>
+                     <td>Elisa Nocedal</td>
+                  </tr>
+                  <tr>
+                     <td>Megan Olsen</td>
+                  </tr>
+                  <tr>
+                     <td>Jen Richey</td>
+                  </tr>
+                  <tr>
+                     <td>Sarah Wachtel</td>
+                  </tr>
+                  <tr>
+                     <td>Alyse Katz</td>
+                  </tr>
+                  <tr>
+                     <td>April Watson</td>
+                  </tr>
+                  <tr>
+                     <td>Jill Hamor</td>
+                  </tr>
+                  <tr>
+                     <td>Skye Estrada</td>
+                  </tr>
+               </tbody>
+            </table>
         </td>
-        
         <td nowrap="nowrap" width="50%">
         	<!-- TEAM 2 -->
-        	<table width="100%" border="1" cellpadding="3">
-            <tr style="background-color:#A58745;">
-              <td><span class="team">TEAM 2</span></td>
-            </tr>
-            <tr><td>Alyse Katz</td></tr>
-            <tr><td>Bonnie Brock</td></tr>
-            <tr><td>Bridget Conrad *</td></tr>
-            <tr><td>Christy Peetz</td></tr>
-            <tr><td>Elisa Nocedal</td></tr>
-            <tr><td>Heather Downs</td></tr>
-            <tr><td><strong>Jennifer Lange **</strong></td></tr>
-            <tr><td>Kali Pruss</td></tr>
-            <tr><td>Karen Barahona</td></tr>
-            <tr><td>Linda Atkins</td></tr>
-            <tr><td>Linda Dias-Golobic</td></tr>
-            <tr><td>Lisa Collins *</td></tr>
-            <tr><td>Rosalyn Conanan *</td></tr>
-            <tr><td>Rozeena Jhinnu</td></tr>
-            <tr><td>Sara Silberstein</td></tr>
-            <tr><td>Sarah Ressler</td></tr>
-            <tr><td>Susie Schinski</td></tr>
-            <tr><td>Thessa Buscar</td></tr>
-            <tr><td>Tomiko Fronk</td></tr>
-            <tr><td>Valeska Schroeder</td></tr>
-            <tr><td>Viola Kung</td></tr>
-            <tr><td>&nbsp;</td></tr>
-            <tr><td><strong>Total players: 21</strong></td></tr>
-          </table>
-      </td>
-
+            <table width="100%" border="1" cellpadding="3">
+               <tbody>
+                  <tr style="background-color:#A58745;">
+                     <td><span class="team">TEAM 2</span></td>
+                  </tr>
+                  <tr>
+                     <td>Kathy Giori</td>
+                  </tr>
+                  <tr>
+                     <td>Bonnie Brock</td>
+                  </tr>
+                  <tr>
+                     <td>Paige Smith</td>
+                  </tr>
+                  <tr>
+                     <td>Simona Vallone</td>
+                  </tr>
+                  <tr>
+                     <td>Alice Hilker</td>
+                  </tr>
+                  <tr>
+                     <td>Witney McKiernan</td>
+                  </tr>
+                  <tr>
+                     <td>Christy Peetz</td>
+                  </tr>
+                  <tr>
+                     <td>Julie Mandia</td>
+                  </tr>
+                  <tr>
+                     <td>Ann Rosendale</td>
+                  </tr>
+                  <tr>
+                     <td>Rebecca Bauer</td>
+                  </tr>
+                  <tr>
+                     <td><b>Lara Troszak **</b></td>
+                  </tr>
+                  <tr>
+                     <td>Anna Moes</td>
+                  </tr>
+                  <tr>
+                     <td>Kerry Wang *</td>
+                  </tr>
+                  <tr>
+                     <td>Alyson Musser</td>
+                  </tr>
+                  <tr>
+                     <td>Deborah Tan</td>
+                  </tr>
+                  <tr>
+                     <td>Kali Pruss</td>
+                  </tr>
+                  <tr>
+                     <td>MJ Lee</td>
+                  </tr>
+                  <tr>
+                     <td>Kelsey Anderson</td>
+                  </tr>
+                  <tr>
+                     <td>Christine Keller</td>
+                  </tr>
+               </tbody>
+            </table>
+        </td>
+      </tr>
       <tr>
         <td nowrap="nowrap" width="50%">
         	<!-- TEAM 3 -->
-        	<table width="100%" border="1" cellpadding="3">
-            <tr style="background-color:#A58745;">
-              <td><span class="team">TEAM 3</span></td>
-            </tr>
-            <tr><td>Abbie Christensen</td></tr>
-            <tr><td>Ann Ryals</td></tr>
-            <tr><td>Candice Wheeler</td></tr>
-            <tr><td>Elizabeth Alcorn</td></tr>
-            <tr><td>Hayley Lewis</td></tr>
-            <tr><td>Kara Tasharski</td></tr>
-            <tr><td>Kathy Giori</td></tr>
-            <tr><td>Kathy Kelleher</td></tr>
-            <tr><td>Katie Cromie</td></tr>
-            <tr><td>Katie Dillon</td></tr>
-            <tr><td>Mandy Albanese</td></tr>
-            <tr><td>Megan Olsen</td></tr>
-            <tr><td>Onyeka Enwerem</td></tr>
-            <tr><td>Rebecca Markey</td></tr>
-            <tr><td><strong>Regine Nelson **</strong></td></tr>
-            <tr><td>Romina Skoff</td></tr>
-            <tr><td>Sheri Simmons *</td></tr>
-            <tr><td>Sherida Corrales</td></tr>
-            <tr><td>Solveig Gibeau</td></tr>
-            <tr><td>Vanessa Martin</td></tr>
-            <tr><td>Whitney Parker</td></tr>
-            <tr><td>&nbsp;</td></tr>
-            <tr><td><strong>Total players: 21</strong></td></tr>
-          </table>
+            <table width="100%" border="1" cellpadding="3">
+               <tbody>
+                  <tr style="background-color:#A58745;">
+                     <td><span class="team">TEAM 3</span></td>
+                  </tr>
+                  <tr>
+                     <td>Heather Downs *</td>
+                  </tr>
+                  <tr>
+                     <td>Elanor Dougherty</td>
+                  </tr>
+                  <tr>
+                     <td>Bridget Conrad</td>
+                  </tr>
+                  <tr>
+                     <td>Darci Freeman</td>
+                  </tr>
+                  <tr>
+                     <td>Sarah Mason</td>
+                  </tr>
+                  <tr>
+                     <td>Jodie Craig</td>
+                  </tr>
+                  <tr>
+                     <td>Michelle Steingart</td>
+                  </tr>
+                  <tr>
+                     <td>Toni Chau</td>
+                  </tr>
+                  <tr>
+                     <td>Hayley Lewis</td>
+                  </tr>
+                  <tr>
+                     <td>Natasha Parrett</td>
+                  </tr>
+                  <tr>
+                     <td>Viola Kung</td>
+                  </tr>
+                  <tr>
+                     <td>Lisa Collins</td>
+                  </tr>
+                  <tr>
+                     <td><b>Nidhi Rathish **</b></td>
+                  </tr>
+                  <tr>
+                     <td>Christine Payne</td>
+                  </tr>
+                  <tr>
+                     <td>Alexis Roizen-Dennis</td>
+                  </tr>
+                  <tr>
+                     <td>Karen Barahona</td>
+                  </tr>
+                  <tr>
+                     <td>Colleen Thomas</td>
+                  </tr>
+                  <tr>
+                     <td>Roberta Wolfson</td>
+                  </tr>
+                  <tr>
+                     <td>Danielle Wong</td>
+                  </tr>
+               </tbody>
+            </table>
         </td>
-        
         <td nowrap="nowrap" width="50%">
-        	<!-- TEAM 4 -->
-        	<table width="100%" border="1" cellpadding="3">
-            <tr style="background-color:#A58745;">
-              <td><span class="team">TEAM 4</span></td>
-            </tr>
-            <tr><td>Amy Molitz</td></tr>
-            <tr><td>Ann Allen</td></tr>
-            <tr><td>Ashley Leprine</td></tr>
-            <tr><td>Claudia Petren *</td></tr>
-            <tr><td>Dorna Hakimimehr</td></tr>
-            <tr><td>Eleanore Dogan</td></tr>
-            <tr><td>Elizabeth Oliva</td></tr>
-            <tr><td>Elizabeth Petit</td></tr>
-            <tr><td>Elizabeth Smith</td></tr>
-            <tr><td>Evangelita Crump</td></tr>
-            <tr><td>Jaclyn DeMartini</td></tr>
-            <tr><td>Jill Hamor</td></tr>
-            <tr><td>Jodie Craig</td></tr>
-            <tr><td>Julie Gosler</td></tr>
-            <tr><td>Lisa Hummel</td></tr>
-            <tr><td><strong>Maija Kelley **</strong></td></tr>
-            <tr><td>Marla Romero</td></tr>
-            <tr><td>Nancy Nuckolls *</td></tr>
-            <tr><td>Sara Harrington</td></tr>
-            <tr><td>Suzanne Lowe</td></tr>
-            <tr><td>Wendy Cho</td></tr>
-            <tr><td>&nbsp;</td></tr>
-            <tr><td><strong>Total players: 21</strong></td></tr>
-          </table>
+            <!-- TEAM 4 -->
+            <table width="100%" border="1" cellpadding="3">
+               <tbody>
+                  <tr style="background-color:#A58745;">
+                     <td><span class="team">TEAM 4</span></td>
+                  </tr>
+                  <tr>
+                     <td>Jothi Murali</td>
+                  </tr>
+                  <tr>
+                     <td>Onyeka Enwerem *</td>
+                  </tr>
+                  <tr>
+                     <td>Starla Turner</td>
+                  </tr>
+                  <tr>
+                     <td>Maija Kelley</td>
+                  </tr>
+                  <tr>
+                     <td>Ronit Belson</td>
+                  </tr>
+                  <tr>
+                     <td>Katie Cromie</td>
+                  </tr>
+                  <tr>
+                     <td>Eleanore Dogan</td>
+                  </tr>
+                  <tr>
+                     <td><b>Dana Sailor **</b></td>
+                  </tr>
+                  <tr>
+                     <td>Sarah Ressler</td>
+                  </tr>
+                  <tr>
+                     <td>Marie Fontana-Nahass</td>
+                  </tr>
+                  <tr>
+                     <td>Linda Dias-Golobic</td>
+                  </tr>
+                  <tr>
+                     <td>Linda Atkins</td>
+                  </tr>
+                  <tr>
+                     <td>Cassie Glowniak</td>
+                  </tr>
+                  <tr>
+                     <td>Ann Allen</td>
+                  </tr>
+                  <tr>
+                     <td>Elizabeth Oliva</td>
+                  </tr>
+                  <tr>
+                     <td>Sheri Simmons *</td>
+                  </tr>
+                  <tr>
+                     <td>Marisa Babb</td>
+                  </tr>
+                  <tr>
+                     <td>Jayna Lloyd</td>
+                  </tr>
+                  <tr>
+                     <td>Caitlin Jones</td>
+                  </tr>
+               </tbody>
+            </table>
         </td>
       </tr>
-
-      <tr>
+  <tr>
         <td nowrap="nowrap" width="50%">
             <!-- TEAM 5 -->
             <table width="100%" border="1" cellpadding="3">
-            <tr style="background-color:#A58745;">
-              <td><span class="team">TEAM 5</span></td>
-            </tr>
-            <tr><td>Alice Hiker</td></tr>
-            <tr><td>Allison Bridges</td></tr>
-            <tr><td><strong>Anna Moes **</strong></td></tr>
-            <tr><td>April Watson</td></tr>
-            <tr><td>Celia Skipton</td></tr>
-            <tr><td>Christine Payne</td></tr>
-            <tr><td>Dana Weintraub</td></tr>
-            <tr><td>Jennifer Leeds</td></tr>
-            <tr><td>Julie Mandia</td></tr>
-            <tr><td>Katie Lindell *</td></tr>
-            <tr><td>Kelsey Anderson</td></tr>
-            <tr><td>Laura Amador</td></tr>
-            <tr><td>Laura Patterson</td></tr>
-            <tr><td>Marie Brown</td></tr>
-            <tr><td>Meg Stamper</td></tr>
-            <tr><td>Mercedes Kwiatkowski</td></tr>
-            <tr><td>Paige Smith</td></tr>
-            <tr><td>Sarah Wachtel</td></tr>
-            <tr><td>Simona Vallone</td></tr>
-            <tr><td>Starla Turner</td></tr>
-            <tr><td>Stephanie Blatter</td></tr>
-            <tr><td>&nbsp;</td></tr>
-            <tr><td><strong>Total players: 21</strong></td></tr>
-          </table>
+               <tbody>
+                  <tr style="background-color:#A58745;">
+                     <td><span class="team">TEAM 5</span></td>
+                  </tr>
+                  <tr>
+                     <td>Jessica Meunier</td>
+                  </tr>
+                  <tr>
+                     <td>Kelsey Chambers</td>
+                  </tr>
+                  <tr>
+                     <td>Icie Legrand</td>
+                  </tr>
+                  <tr>
+                     <td>Alexandra Steele</td>
+                  </tr>
+                  <tr>
+                     <td>Cassy Steele</td>
+                  </tr>
+                  <tr>
+                     <td>Claudia Petren *</td>
+                  </tr>
+                  <tr>
+                     <td>Amity Binkert</td>
+                  </tr>
+                  <tr>
+                     <td>Julie Gosler</td>
+                  </tr>
+                  <tr>
+                     <td>Ann Weiss</td>
+                  </tr>
+                  <tr>
+                     <td>Evangelita Crump</td>
+                  </tr>
+                  <tr>
+                     <td>Julie Wilson</td>
+                  </tr>
+                  <tr>
+                     <td>Sara Bennett</td>
+                  </tr>
+                  <tr>
+                     <td>Suzanne Lowe</td>
+                  </tr>
+                  <tr>
+                     <td><b>Rosalyn Conanan **</b></td>
+                  </tr>
+                  <tr>
+                     <td>Lisa Hummel</td>
+                  </tr>
+                  <tr>
+                     <td>Bessma Aljarbou</td>
+                  </tr>
+                  <tr>
+                     <td>Laura Hogge</td>
+                  </tr>
+                  <tr>
+                     <td>Melanie Bolla</td>
+                  </tr>
+                  <tr>
+                     <td>Carlie Horne</td>
+                  </tr>
+               </tbody>
+            </table>
         </td>
-        
-        <td nowrap="nowrap" width="50%">
-           <!-- empty column --> 
-        </td>
-
       </tr>
     </table><br />
   </div><!-- /end rightcolumn -->
-  
   <div class="clear"></div>
-  
-</div><!-- /end wrapper --> 
-
+</div><!-- /end wrapper -->
 <!--#include virtual="/includes/footer.inc" -->
-
 </body>
 </html>

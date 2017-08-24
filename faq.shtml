@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -11,40 +11,39 @@
 
 <!-- Begin Wrapper -->
 <div id="wrapper">
-   
+
 	<!-- Begin Left Column -->
 	<div id="leftcolumn">
 
 		<div class="logo">
 			<img src="images/maasl_logo_sm.jpg" alt="MAASL Logo"/>
 		</div>
-		
+
 		<!--#include virtual="/includes/navbar.inc" -->
 
 	</div>
-	  
+
 	<!-- Begin Right Column -->
 	<div id="rightcolumn">
 
 	<h1>MAASL Frequently Asked Questions</h1>
-	
+
 	<div class="content" style="padding-left:10px; padding-right:5px;">
 	<dl>
 		<dt><img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;What team am I on?</dt>
-		<dd>See the <a href="rosters.shtml">team rosters</a> or contact Bridget Conrad (bridget.conrad at agiloft.com).<br /><br /></dd>
+		<dd>See the <a href="rosters.shtml">team rosters</a> or contact <a href="board.shtml">Registrar</a> board member.<br /><br /></dd>
 
 		<dt>
 		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
 		Who do I contact if I have questions about the wait list?
 		</dt>
-		<dd>Contact Bridget Conrad (bridget.conrad at agiloft.com).<br /><br /></dd>
+		<dd>Contact <a href="board.shtml">Registrar</a> board member.<br /><br /></dd>
 
 		<dt>
 		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
 		Who do I contact if I have questions about the schedule?
 		</dt>
-		<dd>See the <a href="schedule.shtml">game schedule</a> or contact Amanda Midboe 
-		(alabamander at gmail.com).<br /><br /></dd>
+		<dd>See the <a href="schedule.shtml">game schedule</a> or contact the <a href="board.shtml">Schedules & City Liaison</a> board member.<br /><br /></dd>
 
 		<dt>
 		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
@@ -54,7 +53,7 @@
 			<ul style="padding-top:5px; padding-bottom:9px;">
 				<li>Your team coordinator will notify you via email.</li>
 				<li>An announcement is posted on the <a href="https://groups.google.com/forum/?hl=en&amp;fromgroups#!forum/maasl">MAASL mailing list</a>.</li>
-				<li>An announcement is posted on the 
+				<li>An announcement is posted on the
                 <a href="https://www.facebook.com/pages/Menlo-Atherton-Adult-Womens-Soccer-League/89396378936">MAASL Facebook page</a>.</li>
 				<li>The Menlo Park rainout hotline (650.330.2590) lists field closures.</li>
 			</ul>
@@ -82,39 +81,39 @@
 		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
 		How do I become a sponsor?
 		</dt>
-		<dd>Contact Katie Lindell (kshack1444 at yahoo.com).<br /><br /></dd>
+		<dd>Contact <a href="board.shtml">Publicity</a> board member.<br /><br /></dd>
 
 		<dt>
 		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
 		What if I don't have a jersey?
 		</dt>
-		<dd>Contact your team coordinator (see the <a href="rosters.shtml">team rosters</a> for your 
+		<dd>Contact your team coordinator (see the <a href="rosters.shtml">team rosters</a> for your
 		coordinator's name).<br /><br /></dd>
 
 		<dt>
 		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
 		Who is my team coordinator?
 		</dt>
-		<dd>Contact Tomoko Nakanishi (SUPERTOMOKITA at hotmail.com).<br /><br /></dd>
+		<dd>Contact <a href="board.shtml">League Team Coordinator</a> board member.<br /><br /></dd>
 
 		<!-- <dt>
 		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
 		Has my payment been received?
 		</dt>
 		<dd>Contact Sheri Simmons (sheri_05 at sbcglobal.net).<br /><br /></dd> -->
-		
+
 		<dt>
 		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
 		Where do I report complaints?
 		</dt>
-		<dd>Report complaints via email and/or in person to any of the MAASL board members.  Contact 
+		<dd>Report complaints via email and/or in person to any of the MAASL board members.  Contact
 		information for board members is available on the <a href="board.shtml">board of directors</a> page.<br /><br /></dd>
 
 		<dt>
 		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
 		What if I have a question about the website?
 		</dt>
-		<dd>Contact Claudia Lara (lara8claudia at gmail.com).<br /><br /></dd>
+		<dd>Contact <a href="board.shtml">Webmaster</a> board member.<br /><br /></dd>
 
 		<dt>
 		<img src="images/green-arrow.png" width="12" height="12" alt="" />&nbsp;
@@ -126,8 +125,8 @@
 
 	</div>
 	<div class="clear"></div>
-</div>  
-   
+</div>
+
 <!--#include virtual="/includes/footer.inc" -->
 
 </body>

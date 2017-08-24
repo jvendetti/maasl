@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="style/style.css" />
 <style type="text/css">
 <!--
-td {white-space: nowrap;} 
+td {white-space: nowrap;}
 -->
 </style>
 </head>
@@ -20,218 +20,221 @@ td {white-space: nowrap;}
 		</div>
 		<!--#include virtual="/includes/navbar.inc" -->
 	</div><!-- /end leftcolumn -->
-	  
+
 	<div id="rightcolumn">
-		<h1>Spring 2016 Game Schedule</h1>
+		<h1>Spring 2017 Game Schedule</h1>
         <p class="content">
-        	If you have questions regarding the schedule, please contact Amanda Midboe (alabamander at gmail.com).<br /><br />
+<b>Fall 2017 schedule coming soon!</b><br><br>        	
+
+If you have questions regarding the schedule, please contact Schedules & City Liaison Board Member.<br /><br />
             <em>Teams listed first are &quot;home&quot; and wear red.</em><br /><br />
 			<img src="images/printer.gif" width="13" height="10" alt="" />
-			<a href="schedules/MAASL_FieldScheduleSpring2016.pdf" target="_blank">View printable game schedule</a><br /><br />
-			<!-- <img src="images/printer.gif" width="13" height="10" alt="" />
-			<a href="schedules/MAASLSpring2013RoundRobinSchedule.pdf">View Printable Round Robin Schedule</a><br /><br /> -->
+			<a href="schedules/MAASL_Spring2017_032217.pdf" target="_blank">View printable game schedule</a><br /><br />
+
 		</p>
+
         <h1>March</h1>
 		<div class="content" style="padding-left: 10px;">
-			<table width="98%" cellpadding="3" cellspacing="2" border="1">
-				<tr style="background-color:#A58745; color:#FFFFFF;">
-                    <td>Date</td>
-                    <td>Time</td>
-                    <td>Location</td>
-                    <td>Teams</td>
-                </tr>
-                <tr>
-                    <td>3/12</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>Welcome Clinic & Scrimmage</td>
-                </tr>
-                <tr>
-                    <td>3/14</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>2 v 3</td>
-                </tr>
-                <tr>
-                    <td>3/17</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>5 v 1</td>
-                </tr>
-                <tr>
-                    <td>3/19</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>5 v 2</td>
-                </tr>
-                <tr>
-                    <td>3/19</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>1 v 4</td>
-                </tr>
-                <tr>
-                    <td>3/21</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>1 v 3</td>
-                </tr>
-                <tr>
-                    <td>3/24</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>4 v 5</td>
-                </tr>
-                <tr>
-                    <td>3/26</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>3 v 5</td>
-                </tr>
-                <tr>
-                    <td>3/26</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>2 v 4</td>
-                </tr>
-                <tr>
-                    <td>3/28</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>1 v 5</td>
-                </tr>
-                <tr>
-                    <td>3/31</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>3 v 4</td>
-                </tr>
-        	</table>
-        </div><!-- /end content -->
-
-        <h1>April</h1>
-		<div class="content" style="padding-left: 10px;">
             <table width="98%" cellpadding="3" cellspacing="2" border="1">
                 <tr style="background-color:#A58745; color:#FFFFFF;">
                     <td>Date</td>
                     <td>Time</td>
                     <td>Location</td>
                     <td>Teams</td>
-                </tr>
-                <tr>
-                    <td>4/2</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>2 v 1</td>
-                </tr> 
-                <tr>
-                <tr>
-                    <td>4/2</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>4 v 3</td>
-                </tr>
-                <tr>
-                    <td>4/4</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>4 v 2</td>
-                </tr>
-                <tr>
-                    <td>4/7</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>5 v 3</td>
-                </tr>
-                <tr>
-                    <td>4/9</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>5 v 4</td>
-                </tr>
-                <tr>
-                    <td>4/9</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>1 v 3</td>
-                </tr>
-                <tr>
-                    <td>4/11</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>4 v 1</td>
-                </tr>
-                <tr>
-                    <td>4/14</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>2 v 3</td>
-                </tr>
-                <tr>
-                    <td>4/16</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>3 v 1</td>
-                </tr>
-                <tr>
-                    <td>4/16</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>2 v 5</td>
-                </tr>
-                <tr>
-                    <td>4/18</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>1 v 2</td>
-                </tr>
-                <tr>
-                    <td>4/21</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>4 v 5</td>
-                </tr>
-                <tr>
-                    <td>4/23</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>1 v 5</td>
-                </tr>
-                <tr>
-                    <td>4/23</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>3 v 4</td>
-                </tr>
-                <tr>
-                    <td>4/25</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>3 v 5</td>
-                </tr>
-                <tr>
-                    <td>4/28</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>2 v 1</td>
-                </tr>
-                <tr>
-                    <td>4/30</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>4 v 2</td>
-                </tr>
-                <tr>
-                    <td>4/30</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>5 v 1</td>
-                </tr>
+            </tr>
+            <tr>
+                 <td>3/11</td>
+                 <td>8:30am-12:00pm</td>
+                 <td>Burgess</td>
+                 <td>Welcome Clinic
+                    Scrimmage
+                 </td>
+              </tr>
+              <tr>
+                 <td>3/13</td>
+                 <td>7:00-8:30pm</td>
+                 <td>Kelly</td>
+                 <td>2 v 3</td>
+              </tr>
+              <tr>
+                 <td>3/16</td>
+                 <td>7:00-8:30pm</td>
+                 <td>Kelly</td>
+                 <td>5 v 1</td>
+              </tr>
+              <tr>
+                 <td>3/18</td>
+                 <td>8:30 AM</td>
+                 <td>Burgess</td>
+                 <td>5 v 2</td>
+              </tr>
+              <tr>
+                 <td>3/18</td>
+                 <td>10:15 AM</td>
+                 <td>Burgess</td>
+                 <td>1 v 4</td>
+              </tr>
+              <tr>
+                 <td>3/20</td>
+                 <td>7:00-8:30pm</td>
+                 <td>Kelly</td>
+                 <td>1 v 3</td>
+              </tr>
+              <tr>
+                 <td>3/23</td>
+                 <td>7:00-8:30pm</td>
+                 <td>Kelly</td>
+                 <td>4 v 5</td>
+              </tr>
+              <tr>
+                 <td>3/25</td>
+                 <td>8:30 AM</td>
+                 <td>Burgess</td>
+                 <td>3 v 5</td>
+              </tr>
+              <tr>
+                 <td>3/25</td>
+                 <td>10:15 AM</td>
+                 <td>Burgess</td>
+                 <td>2 v 4</td>
+              </tr>
+              <tr>
+                 <td>3/27</td>
+                 <td>7:00-8:30pm</td>
+                 <td>Kelly</td>
+                 <td>1 v 5</td>
+              </tr>
+              <tr>
+                 <td>3/30</td>
+                 <td>7:00-8:30pm</td>
+                 <td>Kelly</td>
+                 <td>3 v 4</td>
+              </tr>
             </table>
-        </div><!-- /end content -->
+        </div>
 
-        <h1>May</h1>
-  		<div class="content" style="padding-left: 10px;">
+       <h1>April</h1>
+        <div class="content" style="padding-left: 10px;">
+            <table width="98%" cellpadding="3" cellspacing="2" border="1">
+                <tr style="background-color:#A58745; color:#FFFFFF;">
+                    <td>Date</td>
+                    <td>Time</td>
+                    <td>Location</td>
+                    <td>Teams</td>
+                </tr>
+                  <tr>
+                     <td>4/1</td>
+                     <td>8:30 AM</td>
+                     <td>Burgess</td>
+                     <td>2 v 1</td>
+                  </tr>
+                  <tr>
+                     <td>4/1</td>
+                     <td>10:15 AM</td>
+                     <td>Burgess</td>
+                     <td>4 v 3</td>
+                  </tr>
+                  <tr>
+                     <td>4/3</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>4 v 2</td>
+                  </tr>
+                  <tr>
+                     <td>4/6</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>5 v 3</td>
+                  </tr>
+                  <tr>
+                     <td>4/8</td>
+                     <td>8:30 AM</td>
+                     <td>Burgess</td>
+                     <td>5 v 4</td>
+                  </tr>
+                  <tr>
+                     <td>4/8</td>
+                     <td>10:15 AM</td>
+                     <td>Burgess</td>
+                     <td>1 v 3</td>
+                  </tr>
+                  <tr>
+                     <td>4/10</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>4 v 1</td>
+                  </tr>
+                  <tr>
+                     <td>4/13</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>2 v 3</td>
+                  </tr>
+                  <tr>
+                     <td>4/15</td>
+                     <td>8:30 AM</td>
+                     <td>Burgess</td>
+                     <td>3 v 1</td>
+                  </tr>
+                  <tr>
+                     <td>4/15</td>
+                     <td>10:15 AM</td>
+                     <td>Burgess</td>
+                     <td>2 v 5</td>
+                  </tr>
+                  <tr>
+                     <td>4/17</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>1 v 2</td>
+                  </tr>
+                  <tr>
+                     <td>4/20</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>4 v 5</td>
+                  </tr>
+                  <tr>
+                     <td>4/22</td>
+                     <td>8:30 AM</td>
+                     <td>Burgess</td>
+                     <td>1 v 3</td>
+                  </tr>
+                  <tr>
+                     <td>4/22</td>
+                     <td>10:15 AM</td>
+                     <td>Burgess</td>
+                     <td>5 v 4</td>
+                  </tr>
+                  <tr>
+                     <td>4/24</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>5 v 3</td>
+                  </tr>
+                  <tr>
+                     <td>4/27</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>2 v 1</td>
+                  </tr>
+                  <tr>
+                     <td>4/29</td>
+                     <td>8:30 AM</td>
+                     <td>Burgess</td>
+                     <td>4 v 2</td>
+                  </tr>
+                  <tr>
+                     <td>4/29</td>
+                     <td>10:15 AM</td>
+                     <td>Burgess</td>
+                     <td>5 v 1</td>
+                  </tr>
+            </table><br /><br />
+        </div>
+
+       <h1>May</h1>
+        <div class="content" style="padding-left: 10px;">
             <table width="98%" cellpadding="3" cellspacing="2" border="1">
                 <tr style="background-color:#A58745; color:#FFFFFF;">
                     <td>Date</td>
@@ -240,85 +243,91 @@ td {white-space: nowrap;}
                     <td>Teams</td>
                 </tr>
                 <tr>
-                    <td>5/2</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>4 v 1</td>
-                </tr>
-                <tr>
-                    <td>5/5</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>3 v 2</td>
-                </tr>
-                <tr>
-                    <td>5/7</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>2 v 4</td>
-                </tr>
-                <tr>
-                    <td>5/7</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>5 v 3</td>
-                </tr>
-                <tr>
-                    <td>5/9</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>2 v 5</td>
-                </tr>
-                <tr>
-                    <td>5/12</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>3 v 1</td>
-                </tr>
-                <tr>
-                    <td>5/14</td>
-                    <td>8:30am</td>
-                    <td>Burgess</td>
-                    <td>1 v 4</td>
-                </tr>
-                <tr>
-                    <td>5/14</td>
-                    <td>10:15am</td>
-                    <td>Burgess</td>
-                    <td>2 v 3</td>
-                </tr>
-                <tr>
-                    <td>5/16</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>4 v 5</td>
-                </tr>
-                <tr>
-                    <td>5/19</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>1 v 2</td>
-                </tr>
-                <tr>
-                    <td>5/21</td>
-                    <td>8:30-12pm</td>
-                    <td>Burgess</td>
-                    <td>Round Robin Tournament</td>
-                </tr>
-                <tr>
-                    <td>5/23</td>
-                    <td>7:00pm</td>
-                    <td>Kelly</td>
-                    <td>3 v 4</td>
-                </tr>
-                <tr>
-                    <td>5/26</td>
-                    <td>6:00pm</td>
-                    <td>Burgess</td>
-                    <td>5 v 2</td>
-                </tr>
+                     <td>5/1</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>4 v 1</td>
+                  </tr>
+                  <tr>
+                     <td>5/4</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>3 v 2</td>
+                  </tr>
+                  <tr>
+                     <td>5/6</td>
+                     <td>8:30 AM</td>
+                     <td>Burgess</td>
+                     <td>2 v 4</td>
+                  </tr>
+                  <tr>
+                     <td>5/6</td>
+                     <td>10:15 AM</td>
+                     <td>Burgess</td>
+                     <td>5 v 3</td>
+                  </tr>
+                  <tr>
+                     <td>5/8</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>2 v 5</td>
+                  </tr>
+                  <tr>
+                     <td>5/11</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>3 v 1</td>
+                  </tr>
+                  <tr>
+                     <td>5/13</td>
+                     <td>8:30 AM</td>
+                     <td>Burgess</td>
+                     <td>1 v 4</td>
+                  </tr>
+                  <tr>
+                     <td>5/13</td>
+                     <td>10:15 AM</td>
+                     <td>Burgess</td>
+                     <td>2 v 3</td>
+                  </tr>
+                  <tr>
+                     <td>5/15</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>4 v 5</td>
+                  </tr>
+                  <tr>
+                     <td>5/18</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>1 v 2</td>
+                  </tr>
+                  <tr>
+                     <td>5/20</td>
+                     <td>8:30-12:00pm</td>
+                     <td>Burgess</td>
+                     <td>Round Robin / Scrimmage</td>
+                  </tr>
+                  <tr>
+                     <td>5/22</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>3 v 5</td>
+                  </tr>
+                  <tr>
+                     <td>5/25</td>
+                     <td>7:00-8:30pm</td>
+                     <td>Kelly</td>
+                     <td>4 v 2</td>
+                  </tr>
+                  <tr>
+                     <td>5/27</td>
+                     <td>8:30-12:00pm</td>
+                     <td>Burgess</td>
+                     <td>Pickup</td>
+                  </tr>
             </table><br /><br />
-		</div><!-- /end content -->
+        </div>
     </div><!--  /end rightcolumn -->
 	<div class="clear"></div>
 </div><!-- /end wrapper -->
