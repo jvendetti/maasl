@@ -1,6 +1,6 @@
 <div id="footer">
 	<p class="text">
-	Last update: August 23, 2017&nbsp;&nbsp;
+	Last update: August 24, 2017&nbsp;&nbsp;
 	<strong>::</strong>&nbsp;&nbsp;
 	Contact webmaster&nbsp;&nbsp;
 	<strong>::</strong>&nbsp;&nbsp;
